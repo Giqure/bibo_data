@@ -1,0 +1,4 @@
+.venv*/
+__pycache__/
+Bibo_Dataset/*
+test_output/*
