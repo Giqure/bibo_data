@@ -1,0 +1,3372 @@
+[
+  {
+    "image_id": "scene_001_0000",
+    "pose": [
+      9.674999999999999,
+      0.625,
+      1.5
+    ],
+    "visible": [
+      1,
+      2,
+      3
+    ],
+    "unobstructed": [
+      1,
+      2,
+      3
+    ],
+    "height": 1.5,
+    "semantic": {
+      "type": "room:balcony",
+      "room": "balcony_0/0",
+      "room_type": "balcony"
+    }
+  },
+  {
+    "image_id": "scene_001_0001",
+    "pose": [
+      10.125,
+      4.375,
+      1.5
+    ],
+    "visible": [
+      0,
+      2,
+      3
+    ],
+    "unobstructed": [
+      0,
+      2,
+      3
+    ],
+    "height": 1.5,
+    "semantic": {
+      "type": "room:balcony",
+      "room": "balcony_0/0",
+      "room_type": "balcony"
+    }
+  },
+  {
+    "image_id": "scene_001_0002",
+    "pose": [
+      10.125,
+      2.125,
+      1.5
+    ],
+    "visible": [
+      0,
+      1,
+      3
+    ],
+    "unobstructed": [
+      0,
+      1,
+      3
+    ],
+    "height": 1.5,
+    "semantic": {
+      "type": "room:balcony",
+      "room": "balcony_0/0",
+      "room_type": "balcony"
+    }
+  },
+  {
+    "image_id": "scene_001_0003",
+    "pose": [
+      11.325,
+      3.175,
+      1.5
+    ],
+    "visible": [
+      0,
+      1,
+      2
+    ],
+    "unobstructed": [
+      0,
+      1,
+      2
+    ],
+    "height": 1.5,
+    "semantic": {
+      "type": "room:balcony",
+      "room": "balcony_0/0",
+      "room_type": "balcony"
+    }
+  },
+  {
+    "image_id": "scene_001_0004",
+    "pose": [
+      2.625,
+      3.7749999999999995,
+      1.5
+    ],
+    "visible": [
+      5,
+      6,
+      7,
+      8,
+      16,
+      17,
+      19,
+      21,
+      22,
+      23,
+      25,
+      29,
+      31,
+      32
+    ],
+    "unobstructed": [
+      5,
+      6,
+      7,
+      8,
+      16,
+      17,
+      19,
+      21,
+      22,
+      23,
+      25,
+      29,
+      31,
+      32
+    ],
+    "height": 1.5,
+    "semantic": {
+      "type": "room:bathroom",
+      "room": "bathroom_0/0",
+      "room_type": "bathroom"
+    }
+  },
+  {
+    "image_id": "scene_001_0005",
+    "pose": [
+      2.625,
+      6.175,
+      1.5
+    ],
+    "visible": [
+      4,
+      6,
+      7,
+      8,
+      16,
+      17,
+      19,
+      20,
+      23,
+      25,
+      27,
+      30,
+      32
+    ],
+    "unobstructed": [
+      4,
+      6,
+      7,
+      8,
+      16,
+      17,
+      19,
+      20,
+      23,
+      25,
+      27,
+      30,
+      32
+    ],
+    "height": 1.5,
+    "semantic": {
+      "type": "room:bathroom",
+      "room": "bathroom_0/0",
+      "room_type": "bathroom"
+    }
+  },
+  {
+    "image_id": "scene_001_0006",
+    "pose": [
+      0.07499999999999996,
+      6.175,
+      1.5
+    ],
+    "visible": [
+      4,
+      5,
+      7,
+      8,
+      17,
+      20,
+      23
+    ],
+    "unobstructed": [
+      4,
+      5,
+      7,
+      8,
+      17,
+      20,
+      23
+    ],
+    "height": 1.5,
+    "semantic": {
+      "type": "room:bathroom",
+      "room": "bathroom_0/0",
+      "room_type": "bathroom"
+    }
+  },
+  {
+    "image_id": "scene_001_0007",
+    "pose": [
+      -0.2250000000000001,
+      4.675,
+      1.5
+    ],
+    "visible": [
+      4,
+      5,
+      6,
+      8,
+      23,
+      30
+    ],
+    "unobstructed": [
+      4,
+      5,
+      6,
+      8,
+      23,
+      30
+    ],
+    "height": 1.5,
+    "semantic": {
+      "type": "room:bathroom",
+      "room": "bathroom_0/0",
+      "room_type": "bathroom"
+    }
+  },
+  {
+    "image_id": "scene_001_0008",
+    "pose": [
+      1.275,
+      4.675,
+      1.5
+    ],
+    "visible": [
+      4,
+      5,
+      6,
+      7,
+      17,
+      19,
+      20,
+      22,
+      23,
+      25,
+      30,
+      31
+    ],
+    "unobstructed": [
+      4,
+      5,
+      6,
+      7,
+      17,
+      19,
+      20,
+      22,
+      23,
+      25,
+      30,
+      31
+    ],
+    "height": 1.5,
+    "semantic": {
+      "type": "room:bathroom",
+      "room": "bathroom_0/0",
+      "room_type": "bathroom"
+    }
+  },
+  {
+    "image_id": "scene_001_0009",
+    "pose": [
+      6.074999999999999,
+      11.875,
+      1.5
+    ],
+    "visible": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      28,
+      34,
+      35,
+      37,
+      39,
+      42,
+      45,
+      46,
+      47,
+      49,
+      76,
+      81
+    ],
+    "unobstructed": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      28,
+      34,
+      35,
+      37,
+      39,
+      42,
+      45,
+      46,
+      47,
+      49,
+      76,
+      81
+    ],
+    "height": 1.5,
+    "semantic": {
+      "type": "room:bathroom",
+      "room": "bathroom_0/1",
+      "room_type": "bathroom"
+    }
+  },
+  {
+    "image_id": "scene_001_0010",
+    "pose": [
+      6.525,
+      13.975,
+      1.5
+    ],
+    "visible": [
+      9,
+      11,
+      12,
+      13,
+      14,
+      33,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      45,
+      46,
+      47,
+      49,
+      76,
+      78,
+      81
+    ],
+    "unobstructed": [
+      9,
+      11,
+      12,
+      13,
+      14,
+      33,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      45,
+      46,
+      47,
+      49,
+      76,
+      78,
+      81
+    ],
+    "height": 1.5,
+    "semantic": {
+      "type": "room:bathroom",
+      "room": "bathroom_0/1",
+      "room_type": "bathroom"
+    }
+  },
+  {
+    "image_id": "scene_001_0011",
+    "pose": [
+      3.075,
+      13.075,
+      1.5
+    ],
+    "visible": [
+      9,
+      10,
+      12,
+      14,
+      33,
+      34,
+      42,
+      44,
+      45,
+      48,
+      51,
+      76,
+      81
+    ],
+    "unobstructed": [
+      9,
+      10,
+      12,
+      14,
+      33,
+      34,
+      42,
+      44,
+      45,
+      48,
+      51,
+      76,
+      81
+    ],
+    "height": 1.5,
+    "semantic": {
+      "type": "room:bathroom",
+      "room": "bathroom_0/1",
+      "room_type": "bathroom"
+    }
+  },
+  {
+    "image_id": "scene_001_0012",
+    "pose": [
+      4.425,
+      13.975,
+      1.5
+    ],
+    "visible": [
+      9,
+      10,
+      11,
+      14,
+      33,
+      34,
+      35,
+      37,
+      42,
+      44,
+      45,
+      48,
+      49,
+      76,
+      81
+    ],
+    "unobstructed": [
+      9,
+      10,
+      11,
+      14,
+      33,
+      34,
+      35,
+      37,
+      42,
+      44,
+      45,
+      48,
+      49,
+      76,
+      81
+    ],
+    "height": 1.5,
+    "semantic": {
+      "type": "room:bathroom",
+      "room": "bathroom_0/1",
+      "room_type": "bathroom"
+    }
+  },
+  {
+    "image_id": "scene_001_0013",
+    "pose": [
+      7.424999999999999,
+      9.924999999999999,
+      1.5
+    ],
+    "visible": [
+      9,
+      10,
+      14,
+      24,
+      28,
+      35,
+      39,
+      46,
+      47,
+      72,
+      76,
+      77,
+      79,
+      81
+    ],
+    "unobstructed": [
+      9,
+      10,
+      14,
+      24,
+      28,
+      35,
+      39,
+      46,
+      47,
+      72,
+      76,
+      77,
+      79,
+      81
+    ],
+    "height": 1.5,
+    "semantic": {
+      "type": "room:bathroom",
+      "room": "bathroom_0/1",
+      "room_type": "bathroom"
+    }
+  },
+  {
+    "image_id": "scene_001_0014",
+    "pose": [
+      4.725,
+      10.225,
+      1.5
+    ],
+    "visible": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      34,
+      35,
+      42,
+      47,
+      51,
+      76,
+      81
+    ],
+    "unobstructed": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      34,
+      35,
+      42,
+      47,
+      51,
+      76,
+      81
+    ],
+    "height": 1.5,
+    "semantic": {
+      "type": "room:bathroom",
+      "room": "bathroom_0/1",
+      "room_type": "bathroom"
+    }
+  },
+  {
+    "image_id": "scene_001_0015",
+    "pose": [
+      8.775,
+      3.3249999999999997,
+      1.5
+    ],
+    "visible": [
+      16,
+      18,
+      21,
+      23,
+      24,
+      25,
+      26,
+      29,
+      32
+    ],
+    "unobstructed": [
+      16,
+      18,
+      21,
+      23,
+      24,
+      25,
+      26,
+      29,
+      32
+    ],
+    "height": 1.5,
+    "semantic": {
+      "type": "room:bedroom",
+      "room": "bedroom_0/0",
+      "room_type": "bedroom"
+    }
+  },
+  {
+    "image_id": "scene_001_0016",
+    "pose": [
+      7.424999999999999,
+      4.975,
+      1.5
+    ],
+    "visible": [
+      4,
+      5,
+      15,
+      17,
+      18,
+      21,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      32,
+      69,
+      79,
+      80
+    ],
+    "unobstructed": [
+      4,
+      5,
+      15,
+      17,
+      18,
+      21,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      32,
+      69,
+      79,
+      80
+    ],
+    "height": 1.5,
+    "semantic": {
+      "type": "room:bedroom",
+      "room": "bedroom_0/0",
+      "room_type": "bedroom"
+    }
+  },
+  {
+    "image_id": "scene_001_0017",
+    "pose": [
+      4.575,
+      7.375,
+      1.5
+    ],
+    "visible": [
+      4,
+      5,
+      6,
+      8,
+      16,
+      18,
+      19,
+      20,
+      23,
+      24,
+      25,
+      27,
+      29,
+      30,
+      32
+    ],
+    "unobstructed": [
+      4,
+      5,
+      6,
+      8,
+      16,
+      18,
+      19,
+      20,
+      23,
+      24,
+      25,
+      27,
+      29,
+      30,
+      32
+    ],
+    "height": 1.5,
+    "semantic": {
+      "type": "room:bedroom",
+      "room": "bedroom_0/0",
+      "room_type": "bedroom"
+    }
+  },
+  {
+    "image_id": "scene_001_0018",
+    "pose": [
+      7.875,
+      7.225,
+      1.5
+    ],
+    "visible": [
+      15,
+      16,
+      17,
+      20,
+      23,
+      24,
+      27,
+      28,
+      29,
+      32,
+      39,
+      69,
+      76,
+      77,
+      79,
+      80
+    ],
+    "unobstructed": [
+      15,
+      16,
+      17,
+      20,
+      23,
+      24,
+      27,
+      28,
+      29,
+      32,
+      39,
+      69,
+      76,
+      77,
+      79,
+      80
+    ],
+    "height": 1.5,
+    "semantic": {
+      "type": "room:bedroom",
+      "room": "bedroom_0/0",
+      "room_type": "bedroom"
+    }
+  },
+  {
+    "image_id": "scene_001_0019",
+    "pose": [
+      0.9750000000000001,
+      8.125,
+      1.5
+    ],
+    "visible": [
+      4,
+      5,
+      8,
+      17,
+      20,
+      23,
+      30
+    ],
+    "unobstructed": [
+      4,
+      5,
+      8,
+      17,
+      20,
+      23,
+      30
+    ],
+    "height": 1.5,
+    "semantic": {
+      "type": "room:bedroom",
+      "room": "bedroom_0/0",
+      "room_type": "bedroom"
+    }
+  },
+  {
+    "image_id": "scene_001_0020",
+    "pose": [
+      3.9749999999999996,
+      8.875,
+      1.5
+    ],
+    "visible": [
+      5,
+      6,
+      8,
+      17,
+      18,
+      19,
+      23,
+      27,
+      30,
+      32
+    ],
+    "unobstructed": [
+      5,
+      6,
+      8,
+      17,
+      18,
+      19,
+      23,
+      27,
+      30,
+      32
+    ],
+    "height": 1.5,
+    "semantic": {
+      "type": "room:bedroom",
+      "room": "bedroom_0/0",
+      "room_type": "bedroom"
+    }
+  },
+  {
+    "image_id": "scene_001_0021",
+    "pose": [
+      5.7749999999999995,
+      1.525,
+      1.5
+    ],
+    "visible": [
+      4,
+      15,
+      16,
+      22,
+      23,
+      25,
+      26,
+      29,
+      31,
+      32
+    ],
+    "unobstructed": [
+      4,
+      15,
+      16,
+      22,
+      23,
+      25,
+      26,
+      29,
+      31,
+      32
+    ],
+    "height": 1.5,
+    "semantic": {
+      "type": "room:bedroom",
+      "room": "bedroom_0/0",
+      "room_type": "bedroom"
+    }
+  },
+  {
+    "image_id": "scene_001_0022",
+    "pose": [
+      1.5749999999999997,
+      1.075,
+      1.5
+    ],
+    "visible": [
+      4,
+      8,
+      21,
+      23,
+      25,
+      31
+    ],
+    "unobstructed": [
+      4,
+      8,
+      21,
+      23,
+      25,
+      31
+    ],
+    "height": 1.5,
+    "semantic": {
+      "type": "room:bedroom",
+      "room": "bedroom_0/0",
+      "room_type": "bedroom"
+    }
+  },
+  {
+    "image_id": "scene_001_0023",
+    "pose": [
+      4.425,
+      5.125,
+      1.5
+    ],
+    "visible": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      25,
+      26,
+      27,
+      29,
+      30,
+      31,
+      32
+    ],
+    "unobstructed": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      25,
+      26,
+      27,
+      29,
+      30,
+      31,
+      32
+    ],
+    "height": 1.5,
+    "semantic": {
+      "type": "room:bedroom",
+      "room": "bedroom_0/0",
+      "room_type": "bedroom"
+    }
+  },
+  {
+    "image_id": "scene_001_0024",
+    "pose": [
+      9.375,
+      6.7749999999999995,
+      1.5
+    ],
+    "visible": [
+      13,
+      15,
+      16,
+      17,
+      18,
+      27,
+      28,
+      29,
+      32,
+      39,
+      69,
+      71,
+      74,
+      75,
+      77,
+      79,
+      80
+    ],
+    "unobstructed": [
+      13,
+      15,
+      16,
+      17,
+      18,
+      27,
+      28,
+      29,
+      32,
+      39,
+      69,
+      71,
+      74,
+      75,
+      77,
+      79,
+      80
+    ],
+    "height": 1.5,
+    "semantic": {
+      "type": "room:bedroom",
+      "room": "bedroom_0/0",
+      "room_type": "bedroom"
+    }
+  },
+  {
+    "image_id": "scene_001_0025",
+    "pose": [
+      5.0249999999999995,
+      3.025,
+      1.5
+    ],
+    "visible": [
+      4,
+      5,
+      8,
+      15,
+      16,
+      17,
+      21,
+      22,
+      23,
+      26,
+      27,
+      29,
+      31,
+      32
+    ],
+    "unobstructed": [
+      4,
+      5,
+      8,
+      15,
+      16,
+      17,
+      21,
+      22,
+      23,
+      26,
+      27,
+      29,
+      31,
+      32
+    ],
+    "height": 1.5,
+    "semantic": {
+      "type": "room:bedroom",
+      "room": "bedroom_0/0",
+      "room_type": "bedroom"
+    }
+  },
+  {
+    "image_id": "scene_001_0026",
+    "pose": [
+      7.574999999999999,
+      1.975,
+      1.5
+    ],
+    "visible": [
+      15,
+      16,
+      21,
+      23,
+      25,
+      29,
+      31,
+      32
+    ],
+    "unobstructed": [
+      15,
+      16,
+      21,
+      23,
+      25,
+      29,
+      31,
+      32
+    ],
+    "height": 1.5,
+    "semantic": {
+      "type": "room:bedroom",
+      "room": "bedroom_0/0",
+      "room_type": "bedroom"
+    }
+  },
+  {
+    "image_id": "scene_001_0027",
+    "pose": [
+      6.375,
+      7.824999999999999,
+      1.5
+    ],
+    "visible": [
+      5,
+      16,
+      17,
+      18,
+      20,
+      23,
+      24,
+      25,
+      28,
+      29,
+      30,
+      32,
+      39,
+      77,
+      79,
+      80
+    ],
+    "unobstructed": [
+      5,
+      16,
+      17,
+      18,
+      20,
+      23,
+      24,
+      25,
+      28,
+      29,
+      30,
+      32,
+      39,
+      77,
+      79,
+      80
+    ],
+    "height": 1.5,
+    "semantic": {
+      "type": "room:bedroom",
+      "room": "bedroom_0/0",
+      "room_type": "bedroom"
+    }
+  },
+  {
+    "image_id": "scene_001_0028",
+    "pose": [
+      9.525,
+      8.275,
+      1.5
+    ],
+    "visible": [
+      9,
+      13,
+      16,
+      18,
+      24,
+      27,
+      32,
+      39,
+      47,
+      69,
+      71,
+      72,
+      74,
+      75,
+      76,
+      77,
+      79,
+      80
+    ],
+    "unobstructed": [
+      9,
+      13,
+      16,
+      18,
+      24,
+      27,
+      32,
+      39,
+      47,
+      69,
+      71,
+      72,
+      74,
+      75,
+      76,
+      77,
+      79,
+      80
+    ],
+    "height": 1.5,
+    "semantic": {
+      "type": "room:bedroom",
+      "room": "bedroom_0/0",
+      "room_type": "bedroom"
+    }
+  },
+  {
+    "image_id": "scene_001_0029",
+    "pose": [
+      6.975,
+      3.4749999999999996,
+      1.5
+    ],
+    "visible": [
+      4,
+      15,
+      16,
+      17,
+      18,
+      21,
+      23,
+      24,
+      25,
+      26,
+      27,
+      31,
+      32,
+      80
+    ],
+    "unobstructed": [
+      4,
+      15,
+      16,
+      17,
+      18,
+      21,
+      23,
+      24,
+      25,
+      26,
+      27,
+      31,
+      32,
+      80
+    ],
+    "height": 1.5,
+    "semantic": {
+      "type": "room:bedroom",
+      "room": "bedroom_0/0",
+      "room_type": "bedroom"
+    }
+  },
+  {
+    "image_id": "scene_001_0030",
+    "pose": [
+      2.3249999999999997,
+      8.875,
+      1.5
+    ],
+    "visible": [
+      5,
+      7,
+      8,
+      17,
+      19,
+      20,
+      23,
+      27,
+      32
+    ],
+    "unobstructed": [
+      5,
+      7,
+      8,
+      17,
+      19,
+      20,
+      23,
+      27,
+      32
+    ],
+    "height": 1.5,
+    "semantic": {
+      "type": "room:bedroom",
+      "room": "bedroom_0/0",
+      "room_type": "bedroom"
+    }
+  },
+  {
+    "image_id": "scene_001_0031",
+    "pose": [
+      3.5249999999999995,
+      1.2249999999999999,
+      1.5
+    ],
+    "visible": [
+      4,
+      8,
+      21,
+      22,
+      23,
+      25,
+      26,
+      29
+    ],
+    "unobstructed": [
+      4,
+      8,
+      21,
+      22,
+      23,
+      25,
+      26,
+      29
+    ],
+    "height": 1.5,
+    "semantic": {
+      "type": "room:bedroom",
+      "room": "bedroom_0/0",
+      "room_type": "bedroom"
+    }
+  },
+  {
+    "image_id": "scene_001_0032",
+    "pose": [
+      6.225,
+      6.0249999999999995,
+      1.5
+    ],
+    "visible": [
+      4,
+      5,
+      15,
+      16,
+      17,
+      18,
+      20,
+      21,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      80
+    ],
+    "unobstructed": [
+      4,
+      5,
+      15,
+      16,
+      17,
+      18,
+      20,
+      21,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      80
+    ],
+    "height": 1.5,
+    "semantic": {
+      "type": "room:bedroom",
+      "room": "bedroom_0/0",
+      "room_type": "bedroom"
+    }
+  },
+  {
+    "image_id": "scene_001_0033",
+    "pose": [
+      4.575,
+      17.575,
+      1.5
+    ],
+    "visible": [
+      10,
+      11,
+      12,
+      36,
+      37,
+      40,
+      41,
+      43,
+      44,
+      45,
+      48,
+      49,
+      81
+    ],
+    "unobstructed": [
+      10,
+      11,
+      12,
+      36,
+      37,
+      40,
+      41,
+      43,
+      44,
+      45,
+      48,
+      49,
+      81
+    ],
+    "height": 1.5,
+    "semantic": {
+      "type": "room:bedroom",
+      "room": "bedroom_0/1",
+      "room_type": "bedroom"
+    }
+  },
+  {
+    "image_id": "scene_001_0034",
+    "pose": [
+      1.4249999999999998,
+      13.225,
+      1.5
+    ],
+    "visible": [
+      9,
+      11,
+      12,
+      14,
+      41,
+      42,
+      44,
+      45,
+      48,
+      51,
+      81
+    ],
+    "unobstructed": [
+      9,
+      11,
+      12,
+      14,
+      41,
+      42,
+      44,
+      45,
+      48,
+      51,
+      81
+    ],
+    "height": 1.5,
+    "semantic": {
+      "type": "room:bedroom",
+      "room": "bedroom_0/1",
+      "room_type": "bedroom"
+    }
+  },
+  {
+    "image_id": "scene_001_0035",
+    "pose": [
+      8.174999999999999,
+      13.525,
+      1.5
+    ],
+    "visible": [
+      9,
+      10,
+      12,
+      13,
+      14,
+      37,
+      38,
+      39,
+      40,
+      46,
+      47,
+      49,
+      72,
+      76,
+      78,
+      81
+    ],
+    "unobstructed": [
+      9,
+      10,
+      12,
+      13,
+      14,
+      37,
+      38,
+      39,
+      40,
+      46,
+      47,
+      49,
+      72,
+      76,
+      78,
+      81
+    ],
+    "height": 1.5,
+    "semantic": {
+      "type": "room:bedroom",
+      "room": "bedroom_0/1",
+      "room_type": "bedroom"
+    }
+  },
+  {
+    "image_id": "scene_001_0036",
+    "pose": [
+      6.375,
+      18.775,
+      1.5
+    ],
+    "visible": [
+      10,
+      33,
+      37,
+      38,
+      40,
+      41,
+      43,
+      45,
+      49,
+      50
+    ],
+    "unobstructed": [
+      10,
+      33,
+      37,
+      38,
+      40,
+      41,
+      43,
+      45,
+      49,
+      50
+    ],
+    "height": 1.5,
+    "semantic": {
+      "type": "room:bedroom",
+      "room": "bedroom_0/1",
+      "room_type": "bedroom"
+    }
+  },
+  {
+    "image_id": "scene_001_0037",
+    "pose": [
+      7.125,
+      16.075,
+      1.5
+    ],
+    "visible": [
+      9,
+      10,
+      12,
+      33,
+      35,
+      36,
+      38,
+      40,
+      43,
+      45,
+      46,
+      47,
+      49,
+      50,
+      76,
+      81
+    ],
+    "unobstructed": [
+      9,
+      10,
+      12,
+      33,
+      35,
+      36,
+      38,
+      40,
+      43,
+      45,
+      46,
+      47,
+      49,
+      50,
+      76,
+      81
+    ],
+    "height": 1.5,
+    "semantic": {
+      "type": "room:bedroom",
+      "room": "bedroom_0/1",
+      "room_type": "bedroom"
+    }
+  },
+  {
+    "image_id": "scene_001_0038",
+    "pose": [
+      9.825,
+      16.675,
+      1.5
+    ],
+    "visible": [
+      10,
+      35,
+      36,
+      37,
+      40,
+      46,
+      47,
+      49,
+      50
+    ],
+    "unobstructed": [
+      10,
+      35,
+      36,
+      37,
+      40,
+      46,
+      47,
+      49,
+      50
+    ],
+    "height": 1.5,
+    "semantic": {
+      "type": "room:bedroom",
+      "room": "bedroom_0/1",
+      "room_type": "bedroom"
+    }
+  },
+  {
+    "image_id": "scene_001_0039",
+    "pose": [
+      9.975,
+      10.525,
+      1.5
+    ],
+    "visible": [
+      9,
+      10,
+      13,
+      18,
+      24,
+      27,
+      28,
+      35,
+      46,
+      47,
+      49,
+      67,
+      70,
+      71,
+      72,
+      73,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80
+    ],
+    "unobstructed": [
+      9,
+      10,
+      13,
+      18,
+      24,
+      27,
+      28,
+      35,
+      46,
+      47,
+      49,
+      67,
+      70,
+      71,
+      72,
+      73,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80
+    ],
+    "height": 1.5,
+    "semantic": {
+      "type": "room:bedroom",
+      "room": "bedroom_0/1",
+      "room_type": "bedroom"
+    }
+  },
+  {
+    "image_id": "scene_001_0040",
+    "pose": [
+      8.174999999999999,
+      18.025,
+      1.5
+    ],
+    "visible": [
+      10,
+      33,
+      35,
+      36,
+      37,
+      38,
+      46,
+      49,
+      50
+    ],
+    "unobstructed": [
+      10,
+      33,
+      35,
+      36,
+      37,
+      38,
+      46,
+      49,
+      50
+    ],
+    "height": 1.5,
+    "semantic": {
+      "type": "room:bedroom",
+      "room": "bedroom_0/1",
+      "room_type": "bedroom"
+    }
+  },
+  {
+    "image_id": "scene_001_0041",
+    "pose": [
+      1.4249999999999998,
+      18.175,
+      1.5
+    ],
+    "visible": [
+      33,
+      34,
+      36,
+      43,
+      44,
+      45,
+      48
+    ],
+    "unobstructed": [
+      33,
+      34,
+      36,
+      43,
+      44,
+      45,
+      48
+    ],
+    "height": 1.5,
+    "semantic": {
+      "type": "room:bedroom",
+      "room": "bedroom_0/1",
+      "room_type": "bedroom"
+    }
+  },
+  {
+    "image_id": "scene_001_0042",
+    "pose": [
+      2.025,
+      11.125,
+      1.5
+    ],
+    "visible": [
+      9,
+      11,
+      12,
+      14,
+      34,
+      44,
+      51,
+      81
+    ],
+    "unobstructed": [
+      9,
+      11,
+      12,
+      14,
+      34,
+      44,
+      51,
+      81
+    ],
+    "height": 1.5,
+    "semantic": {
+      "type": "room:bedroom",
+      "room": "bedroom_0/1",
+      "room_type": "bedroom"
+    }
+  },
+  {
+    "image_id": "scene_001_0043",
+    "pose": [
+      3.2249999999999996,
+      18.925,
+      1.5
+    ],
+    "visible": [
+      33,
+      36,
+      37,
+      41,
+      44,
+      45,
+      48
+    ],
+    "unobstructed": [
+      33,
+      36,
+      37,
+      41,
+      44,
+      45,
+      48
+    ],
+    "height": 1.5,
+    "semantic": {
+      "type": "room:bedroom",
+      "room": "bedroom_0/1",
+      "room_type": "bedroom"
+    }
+  },
+  {
+    "image_id": "scene_001_0044",
+    "pose": [
+      1.125,
+      15.174999999999999,
+      1.5
+    ],
+    "visible": [
+      11,
+      12,
+      33,
+      34,
+      41,
+      42,
+      43,
+      45,
+      48,
+      81
+    ],
+    "unobstructed": [
+      11,
+      12,
+      33,
+      34,
+      41,
+      42,
+      43,
+      45,
+      48,
+      81
+    ],
+    "height": 1.5,
+    "semantic": {
+      "type": "room:bedroom",
+      "room": "bedroom_0/1",
+      "room_type": "bedroom"
+    }
+  },
+  {
+    "image_id": "scene_001_0045",
+    "pose": [
+      3.5249999999999995,
+      15.925,
+      1.5
+    ],
+    "visible": [
+      9,
+      10,
+      11,
+      12,
+      33,
+      34,
+      36,
+      37,
+      41,
+      43,
+      44,
+      48,
+      81
+    ],
+    "unobstructed": [
+      9,
+      10,
+      11,
+      12,
+      33,
+      34,
+      36,
+      37,
+      41,
+      43,
+      44,
+      48,
+      81
+    ],
+    "height": 1.5,
+    "semantic": {
+      "type": "room:bedroom",
+      "room": "bedroom_0/1",
+      "room_type": "bedroom"
+    }
+  },
+  {
+    "image_id": "scene_001_0046",
+    "pose": [
+      9.674999999999999,
+      13.975,
+      1.5
+    ],
+    "visible": [
+      9,
+      10,
+      13,
+      35,
+      37,
+      38,
+      39,
+      40,
+      47,
+      49,
+      50,
+      67,
+      72,
+      76,
+      78,
+      81
+    ],
+    "unobstructed": [
+      9,
+      10,
+      13,
+      35,
+      37,
+      38,
+      39,
+      40,
+      47,
+      49,
+      50,
+      67,
+      72,
+      76,
+      78,
+      81
+    ],
+    "height": 1.5,
+    "semantic": {
+      "type": "room:bedroom",
+      "room": "bedroom_0/1",
+      "room_type": "bedroom"
+    }
+  },
+  {
+    "image_id": "scene_001_0047",
+    "pose": [
+      9.225,
+      12.325,
+      1.5
+    ],
+    "visible": [
+      9,
+      10,
+      13,
+      14,
+      28,
+      35,
+      37,
+      38,
+      39,
+      46,
+      49,
+      67,
+      72,
+      76,
+      77,
+      78,
+      81
+    ],
+    "unobstructed": [
+      9,
+      10,
+      13,
+      14,
+      28,
+      35,
+      37,
+      38,
+      39,
+      46,
+      49,
+      67,
+      72,
+      76,
+      77,
+      78,
+      81
+    ],
+    "height": 1.5,
+    "semantic": {
+      "type": "room:bedroom",
+      "room": "bedroom_0/1",
+      "room_type": "bedroom"
+    }
+  },
+  {
+    "image_id": "scene_001_0048",
+    "pose": [
+      0.9750000000000001,
+      16.675,
+      1.5
+    ],
+    "visible": [
+      11,
+      12,
+      33,
+      34,
+      41,
+      43,
+      44,
+      45
+    ],
+    "unobstructed": [
+      11,
+      12,
+      33,
+      34,
+      41,
+      43,
+      44,
+      45
+    ],
+    "height": 1.5,
+    "semantic": {
+      "type": "room:bedroom",
+      "room": "bedroom_0/1",
+      "room_type": "bedroom"
+    }
+  },
+  {
+    "image_id": "scene_001_0049",
+    "pose": [
+      8.924999999999999,
+      15.325,
+      1.5
+    ],
+    "visible": [
+      9,
+      10,
+      12,
+      33,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      46,
+      47,
+      50,
+      76,
+      81
+    ],
+    "unobstructed": [
+      9,
+      10,
+      12,
+      33,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      46,
+      47,
+      50,
+      76,
+      81
+    ],
+    "height": 1.5,
+    "semantic": {
+      "type": "room:bedroom",
+      "room": "bedroom_0/1",
+      "room_type": "bedroom"
+    }
+  },
+  {
+    "image_id": "scene_001_0050",
+    "pose": [
+      9.825,
+      18.625,
+      1.5
+    ],
+    "visible": [
+      36,
+      37,
+      38,
+      40,
+      46,
+      49
+    ],
+    "unobstructed": [
+      36,
+      37,
+      38,
+      40,
+      46,
+      49
+    ],
+    "height": 1.5,
+    "semantic": {
+      "type": "room:bedroom",
+      "room": "bedroom_0/1",
+      "room_type": "bedroom"
+    }
+  },
+  {
+    "image_id": "scene_001_0051",
+    "pose": [
+      0.6749999999999998,
+      9.625,
+      1.5
+    ],
+    "visible": [
+      11,
+      14,
+      34,
+      42
+    ],
+    "unobstructed": [
+      11,
+      14,
+      34,
+      42
+    ],
+    "height": 1.5,
+    "semantic": {
+      "type": "room:bedroom",
+      "room": "bedroom_0/1",
+      "room_type": "bedroom"
+    }
+  },
+  {
+    "image_id": "scene_001_0052",
+    "pose": [
+      12.825,
+      18.175,
+      1.5
+    ],
+    "visible": [
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      65,
+      66
+    ],
+    "unobstructed": [
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      65,
+      66
+    ],
+    "height": 1.5,
+    "semantic": {
+      "type": "room:dining-room",
+      "room": "dining-room_0/0",
+      "room_type": "dining-room"
+    }
+  },
+  {
+    "image_id": "scene_001_0053",
+    "pose": [
+      14.174999999999999,
+      16.825,
+      1.5
+    ],
+    "visible": [
+      52,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      62,
+      65,
+      66
+    ],
+    "unobstructed": [
+      52,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      62,
+      65,
+      66
+    ],
+    "height": 1.5,
+    "semantic": {
+      "type": "room:dining-room",
+      "room": "dining-room_0/0",
+      "room_type": "dining-room"
+    }
+  },
+  {
+    "image_id": "scene_001_0054",
+    "pose": [
+      13.575,
+      14.424999999999999,
+      1.5
+    ],
+    "visible": [
+      52,
+      53,
+      55,
+      56,
+      57,
+      59,
+      62
+    ],
+    "unobstructed": [
+      52,
+      53,
+      55,
+      56,
+      57,
+      59,
+      62
+    ],
+    "height": 1.5,
+    "semantic": {
+      "type": "room:dining-room",
+      "room": "dining-room_0/0",
+      "room_type": "dining-room"
+    }
+  },
+  {
+    "image_id": "scene_001_0055",
+    "pose": [
+      12.075,
+      15.325,
+      1.5
+    ],
+    "visible": [
+      52,
+      53,
+      54,
+      56,
+      57,
+      59,
+      65
+    ],
+    "unobstructed": [
+      52,
+      53,
+      54,
+      56,
+      57,
+      59,
+      65
+    ],
+    "height": 1.5,
+    "semantic": {
+      "type": "room:dining-room",
+      "room": "dining-room_0/0",
+      "room_type": "dining-room"
+    }
+  },
+  {
+    "image_id": "scene_001_0056",
+    "pose": [
+      14.475,
+      18.325,
+      1.5
+    ],
+    "visible": [
+      52,
+      53,
+      54,
+      55,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      64,
+      65,
+      66
+    ],
+    "unobstructed": [
+      52,
+      53,
+      54,
+      55,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      64,
+      65,
+      66
+    ],
+    "height": 1.5,
+    "semantic": {
+      "type": "room:dining-room",
+      "room": "dining-room_0/0",
+      "room_type": "dining-room"
+    }
+  },
+  {
+    "image_id": "scene_001_0057",
+    "pose": [
+      12.075,
+      16.825,
+      1.5
+    ],
+    "visible": [
+      52,
+      53,
+      54,
+      55,
+      56,
+      59,
+      60,
+      61,
+      62,
+      63,
+      65
+    ],
+    "unobstructed": [
+      52,
+      53,
+      54,
+      55,
+      56,
+      59,
+      60,
+      61,
+      62,
+      63,
+      65
+    ],
+    "height": 1.5,
+    "semantic": {
+      "type": "room:dining-room",
+      "room": "dining-room_0/0",
+      "room_type": "dining-room"
+    }
+  },
+  {
+    "image_id": "scene_001_0058",
+    "pose": [
+      16.125,
+      19.974999999999998,
+      1.5
+    ],
+    "visible": [
+      52,
+      53,
+      56,
+      59,
+      60,
+      61,
+      62,
+      64,
+      65,
+      66
+    ],
+    "unobstructed": [
+      52,
+      53,
+      56,
+      59,
+      60,
+      61,
+      62,
+      64,
+      65,
+      66
+    ],
+    "height": 1.5,
+    "semantic": {
+      "type": "room:kitchen",
+      "room": "kitchen_0/0",
+      "room_type": "kitchen"
+    }
+  },
+  {
+    "image_id": "scene_001_0059",
+    "pose": [
+      16.575,
+      15.925,
+      1.5
+    ],
+    "visible": [
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      62
+    ],
+    "unobstructed": [
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      62
+    ],
+    "height": 1.5,
+    "semantic": {
+      "type": "room:kitchen",
+      "room": "kitchen_0/0",
+      "room_type": "kitchen"
+    }
+  },
+  {
+    "image_id": "scene_001_0060",
+    "pose": [
+      14.174999999999999,
+      20.425,
+      1.5
+    ],
+    "visible": [
+      52,
+      53,
+      56,
+      57,
+      58,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66
+    ],
+    "unobstructed": [
+      52,
+      53,
+      56,
+      57,
+      58,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66
+    ],
+    "height": 1.5,
+    "semantic": {
+      "type": "room:kitchen",
+      "room": "kitchen_0/0",
+      "room_type": "kitchen"
+    }
+  },
+  {
+    "image_id": "scene_001_0061",
+    "pose": [
+      11.625,
+      21.325,
+      1.5
+    ],
+    "visible": [
+      52,
+      56,
+      57,
+      58,
+      60,
+      63,
+      65,
+      66
+    ],
+    "unobstructed": [
+      52,
+      56,
+      57,
+      58,
+      60,
+      63,
+      65,
+      66
+    ],
+    "height": 1.5,
+    "semantic": {
+      "type": "room:kitchen",
+      "room": "kitchen_0/0",
+      "room_type": "kitchen"
+    }
+  },
+  {
+    "image_id": "scene_001_0062",
+    "pose": [
+      16.275,
+      18.474999999999998,
+      1.5
+    ],
+    "visible": [
+      52,
+      53,
+      54,
+      56,
+      57,
+      58,
+      59,
+      60,
+      64,
+      65,
+      66
+    ],
+    "unobstructed": [
+      52,
+      53,
+      54,
+      56,
+      57,
+      58,
+      59,
+      60,
+      64,
+      65,
+      66
+    ],
+    "height": 1.5,
+    "semantic": {
+      "type": "room:kitchen",
+      "room": "kitchen_0/0",
+      "room_type": "kitchen"
+    }
+  },
+  {
+    "image_id": "scene_001_0063",
+    "pose": [
+      10.125,
+      21.175,
+      1.5
+    ],
+    "visible": [
+      52,
+      57,
+      60,
+      61,
+      65
+    ],
+    "unobstructed": [
+      52,
+      57,
+      60,
+      61,
+      65
+    ],
+    "height": 1.5,
+    "semantic": {
+      "type": "room:kitchen",
+      "room": "kitchen_0/0",
+      "room_type": "kitchen"
+    }
+  },
+  {
+    "image_id": "scene_001_0064",
+    "pose": [
+      16.875,
+      21.325,
+      1.5
+    ],
+    "visible": [
+      56,
+      58,
+      60,
+      62,
+      66
+    ],
+    "unobstructed": [
+      56,
+      58,
+      60,
+      62,
+      66
+    ],
+    "height": 1.5,
+    "semantic": {
+      "type": "room:kitchen",
+      "room": "kitchen_0/0",
+      "room_type": "kitchen"
+    }
+  },
+  {
+    "image_id": "scene_001_0065",
+    "pose": [
+      11.924999999999999,
+      19.825,
+      1.5
+    ],
+    "visible": [
+      52,
+      53,
+      55,
+      56,
+      57,
+      58,
+      60,
+      61,
+      62,
+      63,
+      66
+    ],
+    "unobstructed": [
+      52,
+      53,
+      55,
+      56,
+      57,
+      58,
+      60,
+      61,
+      62,
+      63,
+      66
+    ],
+    "height": 1.5,
+    "semantic": {
+      "type": "room:kitchen",
+      "room": "kitchen_0/0",
+      "room_type": "kitchen"
+    }
+  },
+  {
+    "image_id": "scene_001_0066",
+    "pose": [
+      15.375,
+      21.325,
+      1.5
+    ],
+    "visible": [
+      52,
+      53,
+      56,
+      58,
+      60,
+      61,
+      62,
+      64,
+      65
+    ],
+    "unobstructed": [
+      52,
+      53,
+      56,
+      58,
+      60,
+      61,
+      62,
+      64,
+      65
+    ],
+    "height": 1.5,
+    "semantic": {
+      "type": "room:kitchen",
+      "room": "kitchen_0/0",
+      "room_type": "kitchen"
+    }
+  },
+  {
+    "image_id": "scene_001_0067",
+    "pose": [
+      13.274999999999999,
+      12.924999999999999,
+      1.5
+    ],
+    "visible": [
+      39,
+      46,
+      47,
+      70,
+      71,
+      72,
+      73,
+      77,
+      78
+    ],
+    "unobstructed": [
+      39,
+      46,
+      47,
+      70,
+      71,
+      72,
+      73,
+      77,
+      78
+    ],
+    "height": 1.5,
+    "semantic": {
+      "type": "room:living-room",
+      "room": "living-room_0/0",
+      "room_type": "living-room"
+    }
+  },
+  {
+    "image_id": "scene_001_0068",
+    "pose": [
+      14.925,
+      7.824999999999999,
+      1.5
+    ],
+    "visible": [
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      77,
+      79,
+      80
+    ],
+    "unobstructed": [
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      77,
+      79,
+      80
+    ],
+    "height": 1.5,
+    "semantic": {
+      "type": "room:living-room",
+      "room": "living-room_0/0",
+      "room_type": "living-room"
+    }
+  },
+  {
+    "image_id": "scene_001_0069",
+    "pose": [
+      12.375,
+      5.575,
+      1.5
+    ],
+    "visible": [
+      16,
+      18,
+      24,
+      28,
+      68,
+      71,
+      74,
+      75,
+      77,
+      79,
+      80
+    ],
+    "unobstructed": [
+      16,
+      18,
+      24,
+      28,
+      68,
+      71,
+      74,
+      75,
+      77,
+      79,
+      80
+    ],
+    "height": 1.5,
+    "semantic": {
+      "type": "room:living-room",
+      "room": "living-room_0/0",
+      "room_type": "living-room"
+    }
+  },
+  {
+    "image_id": "scene_001_0070",
+    "pose": [
+      14.774999999999999,
+      10.225,
+      1.5
+    ],
+    "visible": [
+      39,
+      67,
+      68,
+      71,
+      72,
+      73,
+      74,
+      75,
+      77,
+      78,
+      79
+    ],
+    "unobstructed": [
+      39,
+      67,
+      68,
+      71,
+      72,
+      73,
+      74,
+      75,
+      77,
+      78,
+      79
+    ],
+    "height": 1.5,
+    "semantic": {
+      "type": "room:living-room",
+      "room": "living-room_0/0",
+      "room_type": "living-room"
+    }
+  },
+  {
+    "image_id": "scene_001_0071",
+    "pose": [
+      13.274999999999999,
+      9.325,
+      1.5
+    ],
+    "visible": [
+      24,
+      28,
+      39,
+      67,
+      68,
+      69,
+      70,
+      72,
+      73,
+      74,
+      75,
+      77,
+      78,
+      79,
+      80
+    ],
+    "unobstructed": [
+      24,
+      28,
+      39,
+      67,
+      68,
+      69,
+      70,
+      72,
+      73,
+      74,
+      75,
+      77,
+      78,
+      79,
+      80
+    ],
+    "height": 1.5,
+    "semantic": {
+      "type": "room:living-room",
+      "room": "living-room_0/0",
+      "room_type": "living-room"
+    }
+  },
+  {
+    "image_id": "scene_001_0072",
+    "pose": [
+      12.075,
+      11.424999999999999,
+      1.5
+    ],
+    "visible": [
+      13,
+      28,
+      35,
+      39,
+      46,
+      47,
+      67,
+      68,
+      70,
+      71,
+      73,
+      75,
+      76,
+      77,
+      78,
+      79
+    ],
+    "unobstructed": [
+      13,
+      28,
+      35,
+      39,
+      46,
+      47,
+      67,
+      68,
+      70,
+      71,
+      73,
+      75,
+      76,
+      77,
+      78,
+      79
+    ],
+    "height": 1.5,
+    "semantic": {
+      "type": "room:living-room",
+      "room": "living-room_0/0",
+      "room_type": "living-room"
+    }
+  },
+  {
+    "image_id": "scene_001_0073",
+    "pose": [
+      14.625,
+      11.875,
+      1.5
+    ],
+    "visible": [
+      39,
+      67,
+      68,
+      70,
+      71,
+      72,
+      75,
+      77,
+      78
+    ],
+    "unobstructed": [
+      39,
+      67,
+      68,
+      70,
+      71,
+      72,
+      75,
+      77,
+      78
+    ],
+    "height": 1.5,
+    "semantic": {
+      "type": "room:living-room",
+      "room": "living-room_0/0",
+      "room_type": "living-room"
+    }
+  },
+  {
+    "image_id": "scene_001_0074",
+    "pose": [
+      13.875,
+      5.875,
+      1.5
+    ],
+    "visible": [
+      24,
+      28,
+      68,
+      69,
+      70,
+      71,
+      75,
+      77,
+      79,
+      80
+    ],
+    "unobstructed": [
+      24,
+      28,
+      68,
+      69,
+      70,
+      71,
+      75,
+      77,
+      79,
+      80
+    ],
+    "height": 1.5,
+    "semantic": {
+      "type": "room:living-room",
+      "room": "living-room_0/0",
+      "room_type": "living-room"
+    }
+  },
+  {
+    "image_id": "scene_001_0075",
+    "pose": [
+      12.975,
+      7.824999999999999,
+      1.5
+    ],
+    "visible": [
+      24,
+      28,
+      39,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      77,
+      79,
+      80
+    ],
+    "unobstructed": [
+      24,
+      28,
+      39,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      77,
+      79,
+      80
+    ],
+    "height": 1.5,
+    "semantic": {
+      "type": "room:living-room",
+      "room": "living-room_0/0",
+      "room_type": "living-room"
+    }
+  },
+  {
+    "image_id": "scene_001_0076",
+    "pose": [
+      7.725,
+      12.025,
+      1.5
+    ],
+    "visible": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      18,
+      28,
+      35,
+      37,
+      39,
+      46,
+      47,
+      49,
+      72,
+      77,
+      78,
+      81
+    ],
+    "unobstructed": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      18,
+      28,
+      35,
+      37,
+      39,
+      46,
+      47,
+      49,
+      72,
+      77,
+      78,
+      81
+    ],
+    "height": 1.5,
+    "semantic": {
+      "type": "room:living-room",
+      "room": "living-room_0/0",
+      "room_type": "living-room"
+    }
+  },
+  {
+    "image_id": "scene_001_0077",
+    "pose": [
+      11.025,
+      9.025,
+      1.5
+    ],
+    "visible": [
+      13,
+      18,
+      24,
+      27,
+      28,
+      39,
+      47,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      78,
+      79,
+      80
+    ],
+    "unobstructed": [
+      13,
+      18,
+      24,
+      27,
+      28,
+      39,
+      47,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      78,
+      79,
+      80
+    ],
+    "height": 1.5,
+    "semantic": {
+      "type": "room:living-room",
+      "room": "living-room_0/0",
+      "room_type": "living-room"
+    }
+  },
+  {
+    "image_id": "scene_001_0078",
+    "pose": [
+      11.475,
+      13.375,
+      1.5
+    ],
+    "visible": [
+      10,
+      35,
+      39,
+      46,
+      47,
+      67,
+      70,
+      71,
+      72,
+      73,
+      76,
+      77
+    ],
+    "unobstructed": [
+      10,
+      35,
+      39,
+      46,
+      47,
+      67,
+      70,
+      71,
+      72,
+      73,
+      76,
+      77
+    ],
+    "height": 1.5,
+    "semantic": {
+      "type": "room:living-room",
+      "room": "living-room_0/0",
+      "room_type": "living-room"
+    }
+  },
+  {
+    "image_id": "scene_001_0079",
+    "pose": [
+      11.174999999999999,
+      7.375,
+      1.5
+    ],
+    "visible": [
+      13,
+      16,
+      18,
+      24,
+      27,
+      28,
+      39,
+      68,
+      69,
+      70,
+      71,
+      72,
+      74,
+      75,
+      77,
+      80
+    ],
+    "unobstructed": [
+      13,
+      16,
+      18,
+      24,
+      27,
+      28,
+      39,
+      68,
+      69,
+      70,
+      71,
+      72,
+      74,
+      75,
+      77,
+      80
+    ],
+    "height": 1.5,
+    "semantic": {
+      "type": "room:living-room",
+      "room": "living-room_0/0",
+      "room_type": "living-room"
+    }
+  },
+  {
+    "image_id": "scene_001_0080",
+    "pose": [
+      10.875,
+      6.175,
+      1.5
+    ],
+    "visible": [
+      16,
+      18,
+      24,
+      27,
+      28,
+      29,
+      32,
+      39,
+      68,
+      69,
+      71,
+      74,
+      75,
+      77,
+      79
+    ],
+    "unobstructed": [
+      16,
+      18,
+      24,
+      27,
+      28,
+      29,
+      32,
+      39,
+      68,
+      69,
+      71,
+      74,
+      75,
+      77,
+      79
+    ],
+    "height": 1.5,
+    "semantic": {
+      "type": "transition:door",
+      "room": "door",
+      "connects": [
+        "balcony_0/0",
+        "living-room_0/0"
+      ]
+    }
+  },
+  {
+    "image_id": "scene_001_0081",
+    "pose": [
+      5.325,
+      13.075,
+      1.5
+    ],
+    "visible": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      33,
+      34,
+      35,
+      37,
+      42,
+      44,
+      45,
+      46,
+      47,
+      49,
+      76
+    ],
+    "unobstructed": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      33,
+      34,
+      35,
+      37,
+      42,
+      44,
+      45,
+      46,
+      47,
+      49,
+      76
+    ],
+    "height": 1.5,
+    "semantic": {
+      "type": "transition:door",
+      "room": "door.008",
+      "connects": [
+        "bathroom_0/1",
+        "bedroom_0/1"
+      ]
+    }
+  }
+]

@@ -1,4 +1,8 @@
 .venv*/
+.vscode/
 __pycache__/
 Bibo_Dataset/*
 test_output/*
+
+deprecated/*
+output/*

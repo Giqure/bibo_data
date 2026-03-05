@@ -1,0 +1,41 @@
+{
+  "scan_id": "scene_001",
+  "num_waypoints": 82,
+  "num_edges": 944,
+  "num_paths": 124,
+  "waypoint_types": {
+    "room:balcony": 4,
+    "room:bathroom": 11,
+    "room:bedroom": 37,
+    "room:dining-room": 6,
+    "room:kitchen": 9,
+    "room:living-room": 13,
+    "transition:door": 2
+  },
+  "backend": "grid",
+  "scene_bounds_min": [
+    -0.5,
+    -0.5,
+    0.0
+  ],
+  "scene_bounds_max": [
+    17.000000476837158,
+    21.50000023841858,
+    2.9845917224884033
+  ],
+  "camera_height": 1.5,
+  "usdc_path": "/home/jwm/infinigen/outputs/my_export/export_scene.blend/export_scene.usdc",
+  "solve_state_path": "/home/jwm/infinigen/outputs/my_export/solve_state.json",
+  "pipeline_summary": {
+    "num_waypoints": 82,
+    "num_paths": 124,
+    "num_edges": 944,
+    "paths_short": 51,
+    "paths_medium": 61,
+    "paths_long": 12,
+    "grid_free_m2": 269.1,
+    "grid_components": 3,
+    "num_regions": 17,
+    "paths_with_goal_region": 61
+  }
+}

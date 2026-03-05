@@ -1,0 +1,3509 @@
+[
+  {
+    "waypoint_indices": [
+      3,
+      1,
+      0,
+      2,
+      3,
+      0,
+      1,
+      2,
+      0,
+      3,
+      1,
+      0,
+      2,
+      3,
+      1,
+      2,
+      3,
+      1,
+      0,
+      2,
+      3,
+      0,
+      2,
+      1,
+      3,
+      2,
+      1,
+      3,
+      2,
+      1,
+      0
+    ],
+    "distance_m": 66.826,
+    "rooms": [
+      "balcony_0/0"
+    ],
+    "num_rooms": 1,
+    "scale": "short",
+    "num_waypoints": 31
+  },
+  {
+    "waypoint_indices": [
+      0,
+      1,
+      2,
+      3,
+      1,
+      2,
+      3,
+      1,
+      2,
+      0,
+      3,
+      2,
+      0,
+      1,
+      3,
+      2,
+      1,
+      3,
+      2,
+      0,
+      1,
+      3,
+      0,
+      2,
+      1,
+      0,
+      3,
+      2,
+      0,
+      1,
+      3
+    ],
+    "distance_m": 66.826,
+    "rooms": [
+      "balcony_0/0"
+    ],
+    "num_rooms": 1,
+    "scale": "short",
+    "num_waypoints": 31
+  },
+  {
+    "waypoint_indices": [
+      0,
+      1,
+      2,
+      3,
+      0,
+      2,
+      3,
+      1,
+      2,
+      3,
+      0,
+      1,
+      2,
+      3,
+      1,
+      2,
+      0,
+      3,
+      1,
+      0,
+      3,
+      1,
+      0,
+      3,
+      1,
+      0,
+      2,
+      1,
+      3,
+      2,
+      0
+    ],
+    "distance_m": 69.74,
+    "rooms": [
+      "balcony_0/0"
+    ],
+    "num_rooms": 1,
+    "scale": "short",
+    "num_waypoints": 31
+  },
+  {
+    "waypoint_indices": [
+      0,
+      2,
+      3,
+      1,
+      2,
+      0,
+      1,
+      3,
+      0,
+      1,
+      3,
+      0,
+      1,
+      3,
+      0,
+      2,
+      1,
+      3,
+      2,
+      1,
+      0,
+      3,
+      2,
+      1,
+      3,
+      2,
+      0,
+      3,
+      2,
+      1,
+      0
+    ],
+    "distance_m": 69.74,
+    "rooms": [
+      "balcony_0/0"
+    ],
+    "num_rooms": 1,
+    "scale": "short",
+    "num_waypoints": 31
+  },
+  {
+    "waypoint_indices": [
+      1,
+      2,
+      0,
+      3,
+      1,
+      2,
+      3,
+      0,
+      1,
+      3,
+      2,
+      0,
+      1,
+      2,
+      3,
+      0,
+      2,
+      1,
+      3,
+      0,
+      1,
+      3,
+      2,
+      0,
+      1,
+      2,
+      0,
+      1,
+      3,
+      0,
+      2
+    ],
+    "distance_m": 69.581,
+    "rooms": [
+      "balcony_0/0"
+    ],
+    "num_rooms": 1,
+    "scale": "short",
+    "num_waypoints": 31
+  },
+  {
+    "waypoint_indices": [
+      2,
+      0,
+      3,
+      1,
+      0,
+      2,
+      1,
+      0,
+      2,
+      3,
+      1,
+      0,
+      3,
+      1,
+      2,
+      0,
+      3,
+      2,
+      1,
+      0,
+      2,
+      3,
+      1,
+      0,
+      3,
+      2,
+      1,
+      3,
+      0,
+      2,
+      1
+    ],
+    "distance_m": 69.581,
+    "rooms": [
+      "balcony_0/0"
+    ],
+    "num_rooms": 1,
+    "scale": "short",
+    "num_waypoints": 31
+  },
+  {
+    "waypoint_indices": [
+      1,
+      0,
+      2,
+      3,
+      1,
+      2,
+      0,
+      1,
+      2,
+      3,
+      1,
+      2,
+      3,
+      0,
+      2,
+      3,
+      0,
+      2,
+      1,
+      3,
+      2,
+      1,
+      3,
+      0,
+      2,
+      3,
+      1,
+      2,
+      0,
+      3,
+      2
+    ],
+    "distance_m": 62.246,
+    "rooms": [
+      "balcony_0/0"
+    ],
+    "num_rooms": 1,
+    "scale": "short",
+    "num_waypoints": 31
+  },
+  {
+    "waypoint_indices": [
+      2,
+      3,
+      0,
+      2,
+      1,
+      3,
+      2,
+      0,
+      3,
+      1,
+      2,
+      3,
+      1,
+      2,
+      0,
+      3,
+      2,
+      0,
+      3,
+      2,
+      1,
+      3,
+      2,
+      1,
+      0,
+      2,
+      1,
+      3,
+      2,
+      0,
+      1
+    ],
+    "distance_m": 62.246,
+    "rooms": [
+      "balcony_0/0"
+    ],
+    "num_rooms": 1,
+    "scale": "short",
+    "num_waypoints": 31
+  },
+  {
+    "waypoint_indices": [
+      31,
+      25,
+      32,
+      18
+    ],
+    "distance_m": 7.614,
+    "rooms": [
+      "bedroom_0/0"
+    ],
+    "num_rooms": 1,
+    "scale": "short",
+    "num_waypoints": 4,
+    "goal_label": "room:living-room/living-room_0/0",
+    "goal_region": {
+      "type": "rect",
+      "min_xy": [
+        7.800000238418579,
+        5.3
+      ],
+      "max_xy": [
+        14.700000238418578,
+        13.700000476837157
+      ]
+    }
+  },
+  {
+    "waypoint_indices": [
+      18,
+      32,
+      25,
+      31
+    ],
+    "distance_m": 7.614,
+    "rooms": [
+      "bedroom_0/0"
+    ],
+    "num_rooms": 1,
+    "scale": "short",
+    "num_waypoints": 4,
+    "goal_label": "room:living-room/living-room_0/0",
+    "goal_region": {
+      "type": "rect",
+      "min_xy": [
+        7.800000238418579,
+        5.3
+      ],
+      "max_xy": [
+        14.700000238418578,
+        13.700000476837157
+      ]
+    }
+  },
+  {
+    "waypoint_indices": [
+      22,
+      23,
+      18
+    ],
+    "distance_m": 8.991,
+    "rooms": [
+      "bedroom_0/0"
+    ],
+    "num_rooms": 1,
+    "scale": "short",
+    "num_waypoints": 3,
+    "goal_label": "room:living-room/living-room_0/0",
+    "goal_region": {
+      "type": "rect",
+      "min_xy": [
+        7.800000238418579,
+        5.3
+      ],
+      "max_xy": [
+        14.700000238418578,
+        13.700000476837157
+      ]
+    }
+  },
+  {
+    "waypoint_indices": [
+      26,
+      23,
+      30
+    ],
+    "distance_m": 8.753,
+    "rooms": [
+      "bedroom_0/0"
+    ],
+    "num_rooms": 1,
+    "scale": "short",
+    "num_waypoints": 3,
+    "goal_label": "room:closet/closet_0/0",
+    "goal_region": {
+      "type": "rect",
+      "min_xy": [
+        0.8,
+        7.300000119209289
+      ],
+      "max_xy": [
+        2.700000059604645,
+        9.200000119209289
+      ]
+    }
+  },
+  {
+    "waypoint_indices": [
+      15,
+      32,
+      30
+    ],
+    "distance_m": 8.544,
+    "rooms": [
+      "bedroom_0/0"
+    ],
+    "num_rooms": 1,
+    "scale": "short",
+    "num_waypoints": 3,
+    "goal_label": "room:closet/closet_0/0",
+    "goal_region": {
+      "type": "rect",
+      "min_xy": [
+        0.8,
+        7.300000119209289
+      ],
+      "max_xy": [
+        2.700000059604645,
+        9.200000119209289
+      ]
+    }
+  },
+  {
+    "waypoint_indices": [
+      21,
+      23,
+      30
+    ],
+    "distance_m": 8.143,
+    "rooms": [
+      "bedroom_0/0"
+    ],
+    "num_rooms": 1,
+    "scale": "short",
+    "num_waypoints": 3,
+    "goal_label": "room:closet/closet_0/0",
+    "goal_region": {
+      "type": "rect",
+      "min_xy": [
+        0.8,
+        7.300000119209289
+      ],
+      "max_xy": [
+        2.700000059604645,
+        9.200000119209289
+      ]
+    }
+  },
+  {
+    "waypoint_indices": [
+      43,
+      37,
+      35
+    ],
+    "distance_m": 7.588,
+    "rooms": [
+      "bedroom_0/1"
+    ],
+    "num_rooms": 1,
+    "scale": "short",
+    "num_waypoints": 3,
+    "goal_label": "room:living-room/living-room_0/0",
+    "goal_region": {
+      "type": "rect",
+      "min_xy": [
+        7.800000238418579,
+        5.3
+      ],
+      "max_xy": [
+        14.700000238418578,
+        13.700000476837157
+      ]
+    }
+  },
+  {
+    "waypoint_indices": [
+      28,
+      27,
+      30
+    ],
+    "distance_m": 7.366,
+    "rooms": [
+      "bedroom_0/0"
+    ],
+    "num_rooms": 1,
+    "scale": "short",
+    "num_waypoints": 3,
+    "goal_label": "room:closet/closet_0/0",
+    "goal_region": {
+      "type": "rect",
+      "min_xy": [
+        0.8,
+        7.300000119209289
+      ],
+      "max_xy": [
+        2.700000059604645,
+        9.200000119209289
+      ]
+    }
+  },
+  {
+    "waypoint_indices": [
+      24,
+      27,
+      30
+    ],
+    "distance_m": 7.362,
+    "rooms": [
+      "bedroom_0/0"
+    ],
+    "num_rooms": 1,
+    "scale": "short",
+    "num_waypoints": 3,
+    "goal_label": "room:closet/closet_0/0",
+    "goal_region": {
+      "type": "rect",
+      "min_xy": [
+        0.8,
+        7.300000119209289
+      ],
+      "max_xy": [
+        2.700000059604645,
+        9.200000119209289
+      ]
+    }
+  },
+  {
+    "waypoint_indices": [
+      29,
+      17,
+      30
+    ],
+    "distance_m": 7.283,
+    "rooms": [
+      "bedroom_0/0"
+    ],
+    "num_rooms": 1,
+    "scale": "short",
+    "num_waypoints": 3,
+    "goal_label": "room:closet/closet_0/0",
+    "goal_region": {
+      "type": "rect",
+      "min_xy": [
+        0.8,
+        7.300000119209289
+      ],
+      "max_xy": [
+        2.700000059604645,
+        9.200000119209289
+      ]
+    }
+  },
+  {
+    "waypoint_indices": [
+      19,
+      17,
+      18
+    ],
+    "distance_m": 6.981,
+    "rooms": [
+      "bedroom_0/0"
+    ],
+    "num_rooms": 1,
+    "scale": "short",
+    "num_waypoints": 3,
+    "goal_label": "room:living-room/living-room_0/0",
+    "goal_region": {
+      "type": "rect",
+      "min_xy": [
+        7.800000238418579,
+        5.3
+      ],
+      "max_xy": [
+        14.700000238418578,
+        13.700000476837157
+      ]
+    }
+  },
+  {
+    "waypoint_indices": [
+      16,
+      32,
+      30
+    ],
+    "distance_m": 6.425,
+    "rooms": [
+      "bedroom_0/0"
+    ],
+    "num_rooms": 1,
+    "scale": "short",
+    "num_waypoints": 3,
+    "goal_label": "room:closet/closet_0/0",
+    "goal_region": {
+      "type": "rect",
+      "min_xy": [
+        0.8,
+        7.300000119209289
+      ],
+      "max_xy": [
+        2.700000059604645,
+        9.200000119209289
+      ]
+    }
+  },
+  {
+    "waypoint_indices": [
+      33,
+      37,
+      35
+    ],
+    "distance_m": 5.716,
+    "rooms": [
+      "bedroom_0/1"
+    ],
+    "num_rooms": 1,
+    "scale": "short",
+    "num_waypoints": 3,
+    "goal_label": "room:living-room/living-room_0/0",
+    "goal_region": {
+      "type": "rect",
+      "min_xy": [
+        7.800000238418579,
+        5.3
+      ],
+      "max_xy": [
+        14.700000238418578,
+        13.700000476837157
+      ]
+    }
+  },
+  {
+    "waypoint_indices": [
+      36,
+      37,
+      35
+    ],
+    "distance_m": 5.56,
+    "rooms": [
+      "bedroom_0/1"
+    ],
+    "num_rooms": 1,
+    "scale": "short",
+    "num_waypoints": 3,
+    "goal_label": "room:living-room/living-room_0/0",
+    "goal_region": {
+      "type": "rect",
+      "min_xy": [
+        7.800000238418579,
+        5.3
+      ],
+      "max_xy": [
+        14.700000238418578,
+        13.700000476837157
+      ]
+    }
+  },
+  {
+    "waypoint_indices": [
+      50,
+      49,
+      35
+    ],
+    "distance_m": 5.371,
+    "rooms": [
+      "bedroom_0/1"
+    ],
+    "num_rooms": 1,
+    "scale": "short",
+    "num_waypoints": 3,
+    "goal_label": "room:living-room/living-room_0/0",
+    "goal_region": {
+      "type": "rect",
+      "min_xy": [
+        7.800000238418579,
+        5.3
+      ],
+      "max_xy": [
+        14.700000238418578,
+        13.700000476837157
+      ]
+    }
+  },
+  {
+    "waypoint_indices": [
+      43,
+      44,
+      34,
+      51
+    ],
+    "distance_m": 9.948,
+    "rooms": [
+      "bedroom_0/1"
+    ],
+    "num_rooms": 1,
+    "scale": "short",
+    "num_waypoints": 4
+  },
+  {
+    "waypoint_indices": [
+      51,
+      34,
+      44,
+      43
+    ],
+    "distance_m": 9.948,
+    "rooms": [
+      "bedroom_0/1"
+    ],
+    "num_rooms": 1,
+    "scale": "short",
+    "num_waypoints": 4
+  },
+  {
+    "waypoint_indices": [
+      41,
+      33,
+      37,
+      46
+    ],
+    "distance_m": 9.469,
+    "rooms": [
+      "bedroom_0/1"
+    ],
+    "num_rooms": 1,
+    "scale": "short",
+    "num_waypoints": 4
+  },
+  {
+    "waypoint_indices": [
+      46,
+      37,
+      33,
+      41
+    ],
+    "distance_m": 9.469,
+    "rooms": [
+      "bedroom_0/1"
+    ],
+    "num_rooms": 1,
+    "scale": "short",
+    "num_waypoints": 4
+  },
+  {
+    "waypoint_indices": [
+      48,
+      33,
+      40,
+      50
+    ],
+    "distance_m": 9.095,
+    "rooms": [
+      "bedroom_0/1"
+    ],
+    "num_rooms": 1,
+    "scale": "short",
+    "num_waypoints": 4
+  },
+  {
+    "waypoint_indices": [
+      50,
+      40,
+      33,
+      48
+    ],
+    "distance_m": 9.095,
+    "rooms": [
+      "bedroom_0/1"
+    ],
+    "num_rooms": 1,
+    "scale": "short",
+    "num_waypoints": 4
+  },
+  {
+    "waypoint_indices": [
+      36,
+      37,
+      47,
+      39
+    ],
+    "distance_m": 9.05,
+    "rooms": [
+      "bedroom_0/1"
+    ],
+    "num_rooms": 1,
+    "scale": "short",
+    "num_waypoints": 4
+  },
+  {
+    "waypoint_indices": [
+      39,
+      47,
+      37,
+      36
+    ],
+    "distance_m": 9.05,
+    "rooms": [
+      "bedroom_0/1"
+    ],
+    "num_rooms": 1,
+    "scale": "short",
+    "num_waypoints": 4
+  },
+  {
+    "waypoint_indices": [
+      38,
+      37,
+      45,
+      48
+    ],
+    "distance_m": 9.027,
+    "rooms": [
+      "bedroom_0/1"
+    ],
+    "num_rooms": 1,
+    "scale": "short",
+    "num_waypoints": 4
+  },
+  {
+    "waypoint_indices": [
+      48,
+      45,
+      37,
+      38
+    ],
+    "distance_m": 9.027,
+    "rooms": [
+      "bedroom_0/1"
+    ],
+    "num_rooms": 1,
+    "scale": "short",
+    "num_waypoints": 4
+  },
+  {
+    "waypoint_indices": [
+      74,
+      75,
+      72,
+      78
+    ],
+    "distance_m": 7.899,
+    "rooms": [
+      "living-room_0/0"
+    ],
+    "num_rooms": 1,
+    "scale": "short",
+    "num_waypoints": 4
+  },
+  {
+    "waypoint_indices": [
+      78,
+      72,
+      75,
+      74
+    ],
+    "distance_m": 7.899,
+    "rooms": [
+      "living-room_0/0"
+    ],
+    "num_rooms": 1,
+    "scale": "short",
+    "num_waypoints": 4
+  },
+  {
+    "waypoint_indices": [
+      63,
+      61,
+      66,
+      64
+    ],
+    "distance_m": 6.757,
+    "rooms": [
+      "kitchen_0/0"
+    ],
+    "num_rooms": 1,
+    "scale": "short",
+    "num_waypoints": 4
+  },
+  {
+    "waypoint_indices": [
+      64,
+      66,
+      61,
+      63
+    ],
+    "distance_m": 6.757,
+    "rooms": [
+      "kitchen_0/0"
+    ],
+    "num_rooms": 1,
+    "scale": "short",
+    "num_waypoints": 4
+  },
+  {
+    "waypoint_indices": [
+      74,
+      77,
+      76
+    ],
+    "distance_m": 8.708,
+    "rooms": [
+      "living-room_0/0"
+    ],
+    "num_rooms": 1,
+    "scale": "short",
+    "num_waypoints": 3
+  },
+  {
+    "waypoint_indices": [
+      69,
+      77,
+      78
+    ],
+    "distance_m": 8.078,
+    "rooms": [
+      "living-room_0/0"
+    ],
+    "num_rooms": 1,
+    "scale": "short",
+    "num_waypoints": 3
+  },
+  {
+    "waypoint_indices": [
+      20,
+      23,
+      31
+    ],
+    "distance_m": 7.779,
+    "rooms": [
+      "bedroom_0/0"
+    ],
+    "num_rooms": 1,
+    "scale": "short",
+    "num_waypoints": 3
+  },
+  {
+    "waypoint_indices": [
+      67,
+      71,
+      69
+    ],
+    "distance_m": 7.456,
+    "rooms": [
+      "living-room_0/0"
+    ],
+    "num_rooms": 1,
+    "scale": "short",
+    "num_waypoints": 3
+  },
+  {
+    "waypoint_indices": [
+      70,
+      72,
+      76
+    ],
+    "distance_m": 7.346,
+    "rooms": [
+      "living-room_0/0"
+    ],
+    "num_rooms": 1,
+    "scale": "short",
+    "num_waypoints": 3
+  },
+  {
+    "waypoint_indices": [
+      41,
+      34,
+      42
+    ],
+    "distance_m": 7.134,
+    "rooms": [
+      "bedroom_0/1"
+    ],
+    "num_rooms": 1,
+    "scale": "short",
+    "num_waypoints": 3
+  },
+  {
+    "waypoint_indices": [
+      73,
+      72,
+      76
+    ],
+    "distance_m": 6.981,
+    "rooms": [
+      "living-room_0/0"
+    ],
+    "num_rooms": 1,
+    "scale": "short",
+    "num_waypoints": 3
+  },
+  {
+    "waypoint_indices": [
+      62,
+      65,
+      63
+    ],
+    "distance_m": 6.805,
+    "rooms": [
+      "kitchen_0/0"
+    ],
+    "num_rooms": 1,
+    "scale": "short",
+    "num_waypoints": 3
+  },
+  {
+    "waypoint_indices": [
+      68,
+      72,
+      78
+    ],
+    "distance_m": 6.632,
+    "rooms": [
+      "living-room_0/0"
+    ],
+    "num_rooms": 1,
+    "scale": "short",
+    "num_waypoints": 3
+  },
+  {
+    "waypoint_indices": [
+      58,
+      60,
+      63
+    ],
+    "distance_m": 6.12,
+    "rooms": [
+      "kitchen_0/0"
+    ],
+    "num_rooms": 1,
+    "scale": "short",
+    "num_waypoints": 3
+  },
+  {
+    "waypoint_indices": [
+      67,
+      72,
+      79
+    ],
+    "distance_m": 6.07,
+    "rooms": [
+      "living-room_0/0"
+    ],
+    "num_rooms": 1,
+    "scale": "short",
+    "num_waypoints": 3
+  },
+  {
+    "waypoint_indices": [
+      11,
+      9,
+      13
+    ],
+    "distance_m": 5.603,
+    "rooms": [
+      "bathroom_0/1"
+    ],
+    "num_rooms": 1,
+    "scale": "short",
+    "num_waypoints": 3
+  },
+  {
+    "waypoint_indices": [
+      59,
+      62,
+      66
+    ],
+    "distance_m": 5.556,
+    "rooms": [
+      "kitchen_0/0"
+    ],
+    "num_rooms": 1,
+    "scale": "short",
+    "num_waypoints": 3
+  },
+  {
+    "waypoint_indices": [
+      12,
+      9,
+      13
+    ],
+    "distance_m": 5.042,
+    "rooms": [
+      "bathroom_0/1"
+    ],
+    "num_rooms": 1,
+    "scale": "short",
+    "num_waypoints": 3
+  },
+  {
+    "waypoint_indices": [
+      63,
+      65,
+      55,
+      54,
+      56,
+      53,
+      52,
+      60,
+      58,
+      64,
+      62,
+      66,
+      61,
+      57,
+      60,
+      65,
+      56,
+      59,
+      57,
+      53,
+      54,
+      52,
+      63,
+      61,
+      60,
+      64,
+      58,
+      61,
+      52,
+      54,
+      59
+    ],
+    "distance_m": 89.803,
+    "rooms": [
+      "kitchen_0/0",
+      "dining-room_0/0"
+    ],
+    "num_rooms": 2,
+    "scale": "medium",
+    "num_waypoints": 31
+  },
+  {
+    "waypoint_indices": [
+      59,
+      54,
+      52,
+      61,
+      58,
+      64,
+      60,
+      61,
+      63,
+      52,
+      54,
+      53,
+      57,
+      59,
+      56,
+      65,
+      60,
+      57,
+      61,
+      66,
+      62,
+      64,
+      58,
+      60,
+      52,
+      53,
+      56,
+      54,
+      55,
+      65,
+      63
+    ],
+    "distance_m": 89.803,
+    "rooms": [
+      "dining-room_0/0",
+      "kitchen_0/0"
+    ],
+    "num_rooms": 2,
+    "scale": "medium",
+    "num_waypoints": 31
+  },
+  {
+    "waypoint_indices": [
+      53,
+      60,
+      64,
+      62,
+      58,
+      61,
+      56,
+      52,
+      59,
+      54,
+      55,
+      65,
+      57,
+      53,
+      59,
+      55,
+      56,
+      66,
+      64,
+      60,
+      63,
+      65,
+      53,
+      52,
+      55,
+      59,
+      56,
+      53,
+      59,
+      54,
+      57
+    ],
+    "distance_m": 91.846,
+    "rooms": [
+      "dining-room_0/0",
+      "kitchen_0/0"
+    ],
+    "num_rooms": 2,
+    "scale": "medium",
+    "num_waypoints": 31
+  },
+  {
+    "waypoint_indices": [
+      57,
+      54,
+      59,
+      53,
+      56,
+      59,
+      55,
+      52,
+      53,
+      65,
+      63,
+      60,
+      64,
+      66,
+      56,
+      55,
+      59,
+      53,
+      57,
+      65,
+      55,
+      54,
+      59,
+      52,
+      56,
+      61,
+      58,
+      62,
+      64,
+      60,
+      53
+    ],
+    "distance_m": 91.846,
+    "rooms": [
+      "kitchen_0/0",
+      "dining-room_0/0"
+    ],
+    "num_rooms": 2,
+    "scale": "medium",
+    "num_waypoints": 31
+  },
+  {
+    "waypoint_indices": [
+      62,
+      64,
+      58,
+      53,
+      56,
+      57,
+      61,
+      66,
+      60,
+      52,
+      55,
+      65,
+      63,
+      52,
+      54,
+      59,
+      53,
+      65,
+      57,
+      53,
+      66,
+      56,
+      55,
+      52,
+      54,
+      53,
+      52,
+      56,
+      53,
+      59,
+      57
+    ],
+    "distance_m": 90.373,
+    "rooms": [
+      "kitchen_0/0",
+      "dining-room_0/0"
+    ],
+    "num_rooms": 2,
+    "scale": "medium",
+    "num_waypoints": 31
+  },
+  {
+    "waypoint_indices": [
+      57,
+      59,
+      53,
+      56,
+      52,
+      53,
+      54,
+      52,
+      55,
+      56,
+      66,
+      53,
+      57,
+      65,
+      53,
+      59,
+      54,
+      52,
+      63,
+      65,
+      55,
+      52,
+      60,
+      66,
+      61,
+      57,
+      56,
+      53,
+      58,
+      64,
+      62
+    ],
+    "distance_m": 90.373,
+    "rooms": [
+      "dining-room_0/0",
+      "kitchen_0/0"
+    ],
+    "num_rooms": 2,
+    "scale": "medium",
+    "num_waypoints": 31
+  },
+  {
+    "waypoint_indices": [
+      63,
+      52,
+      58,
+      60,
+      57,
+      65,
+      62,
+      53,
+      66,
+      64,
+      56,
+      61,
+      52,
+      66,
+      62,
+      59,
+      54,
+      57,
+      52,
+      55,
+      53,
+      62,
+      54,
+      59,
+      57,
+      52,
+      53,
+      54,
+      57,
+      63,
+      52
+    ],
+    "distance_m": 97.609,
+    "rooms": [
+      "kitchen_0/0",
+      "dining-room_0/0"
+    ],
+    "num_rooms": 2,
+    "scale": "medium",
+    "num_waypoints": 31
+  },
+  {
+    "waypoint_indices": [
+      52,
+      63,
+      57,
+      54,
+      53,
+      52,
+      57,
+      59,
+      54,
+      62,
+      53,
+      55,
+      52,
+      57,
+      54,
+      59,
+      62,
+      66,
+      52,
+      61,
+      56,
+      64,
+      66,
+      53,
+      62,
+      65,
+      57,
+      60,
+      58,
+      52,
+      63
+    ],
+    "distance_m": 97.609,
+    "rooms": [
+      "dining-room_0/0",
+      "kitchen_0/0"
+    ],
+    "num_rooms": 2,
+    "scale": "medium",
+    "num_waypoints": 31
+  },
+  {
+    "waypoint_indices": [
+      53,
+      62,
+      66,
+      65,
+      56,
+      60,
+      63,
+      57,
+      52,
+      54,
+      59,
+      56,
+      66,
+      61,
+      65,
+      55,
+      57,
+      52,
+      58,
+      64,
+      66,
+      62,
+      52,
+      57,
+      53,
+      54,
+      59,
+      57,
+      62,
+      65,
+      61
+    ],
+    "distance_m": 89.171,
+    "rooms": [
+      "dining-room_0/0",
+      "kitchen_0/0"
+    ],
+    "num_rooms": 2,
+    "scale": "medium",
+    "num_waypoints": 31
+  },
+  {
+    "waypoint_indices": [
+      61,
+      65,
+      62,
+      57,
+      59,
+      54,
+      53,
+      57,
+      52,
+      62,
+      66,
+      64,
+      58,
+      52,
+      57,
+      55,
+      65,
+      61,
+      66,
+      56,
+      59,
+      54,
+      52,
+      57,
+      63,
+      60,
+      56,
+      65,
+      66,
+      62,
+      53
+    ],
+    "distance_m": 89.171,
+    "rooms": [
+      "kitchen_0/0",
+      "dining-room_0/0"
+    ],
+    "num_rooms": 2,
+    "scale": "medium",
+    "num_waypoints": 31
+  },
+  {
+    "waypoint_indices": [
+      36,
+      37,
+      76,
+      18,
+      27,
+      30
+    ],
+    "distance_m": 17.498,
+    "rooms": [
+      "bedroom_0/1",
+      "living-room_0/0",
+      "bedroom_0/0"
+    ],
+    "num_rooms": 3,
+    "scale": "medium",
+    "num_waypoints": 6,
+    "goal_label": "room:closet/closet_0/0",
+    "goal_region": {
+      "type": "rect",
+      "min_xy": [
+        0.8,
+        7.300000119209289
+      ],
+      "max_xy": [
+        2.700000059604645,
+        9.200000119209289
+      ]
+    }
+  },
+  {
+    "waypoint_indices": [
+      30,
+      27,
+      18,
+      76,
+      37,
+      36
+    ],
+    "distance_m": 17.498,
+    "rooms": [
+      "bedroom_0/0",
+      "living-room_0/0",
+      "bedroom_0/1"
+    ],
+    "num_rooms": 3,
+    "scale": "medium",
+    "num_waypoints": 6,
+    "goal_label": "room:closet/closet_0/0",
+    "goal_region": {
+      "type": "rect",
+      "min_xy": [
+        0.8,
+        7.300000119209289
+      ],
+      "max_xy": [
+        2.700000059604645,
+        9.200000119209289
+      ]
+    }
+  },
+  {
+    "waypoint_indices": [
+      51,
+      14,
+      13,
+      28,
+      27,
+      30
+    ],
+    "distance_m": 16.847,
+    "rooms": [
+      "bedroom_0/1",
+      "bathroom_0/1",
+      "bedroom_0/0"
+    ],
+    "num_rooms": 3,
+    "scale": "medium",
+    "num_waypoints": 6,
+    "goal_label": "room:closet/closet_0/0",
+    "goal_region": {
+      "type": "rect",
+      "min_xy": [
+        0.8,
+        7.300000119209289
+      ],
+      "max_xy": [
+        2.700000059604645,
+        9.200000119209289
+      ]
+    }
+  },
+  {
+    "waypoint_indices": [
+      30,
+      27,
+      28,
+      13,
+      14,
+      51
+    ],
+    "distance_m": 16.847,
+    "rooms": [
+      "bedroom_0/0",
+      "bathroom_0/1",
+      "bedroom_0/1"
+    ],
+    "num_rooms": 3,
+    "scale": "medium",
+    "num_waypoints": 6,
+    "goal_label": "room:closet/closet_0/0",
+    "goal_region": {
+      "type": "rect",
+      "min_xy": [
+        0.8,
+        7.300000119209289
+      ],
+      "max_xy": [
+        2.700000059604645,
+        9.200000119209289
+      ]
+    }
+  },
+  {
+    "waypoint_indices": [
+      31,
+      25,
+      32,
+      18,
+      76,
+      9
+    ],
+    "distance_m": 14.074,
+    "rooms": [
+      "bedroom_0/0",
+      "living-room_0/0",
+      "bathroom_0/1"
+    ],
+    "num_rooms": 3,
+    "scale": "medium",
+    "num_waypoints": 6,
+    "goal_label": "room:bathroom/bathroom_0/1",
+    "goal_region": {
+      "type": "rect",
+      "min_xy": [
+        3.2999997615814207,
+        9.799999761581422
+      ],
+      "max_xy": [
+        7.200000238418579,
+        13.69999976158142
+      ]
+    }
+  },
+  {
+    "waypoint_indices": [
+      9,
+      76,
+      18,
+      32,
+      25,
+      31
+    ],
+    "distance_m": 14.074,
+    "rooms": [
+      "bathroom_0/1",
+      "living-room_0/0",
+      "bedroom_0/0"
+    ],
+    "num_rooms": 3,
+    "scale": "medium",
+    "num_waypoints": 6,
+    "goal_label": "room:bathroom/bathroom_0/1",
+    "goal_region": {
+      "type": "rect",
+      "min_xy": [
+        3.2999997615814207,
+        9.799999761581422
+      ],
+      "max_xy": [
+        7.200000238418579,
+        13.69999976158142
+      ]
+    }
+  },
+  {
+    "waypoint_indices": [
+      50,
+      46,
+      39,
+      27,
+      5
+    ],
+    "distance_m": 16.712,
+    "rooms": [
+      "bedroom_0/1",
+      "bedroom_0/0",
+      "bathroom_0/0"
+    ],
+    "num_rooms": 3,
+    "scale": "medium",
+    "num_waypoints": 5,
+    "goal_label": "room:bathroom/bathroom_0/0",
+    "goal_region": {
+      "type": "rect",
+      "min_xy": [
+        -0.2,
+        3.800000238418579
+      ],
+      "max_xy": [
+        2.700000059604645,
+        6.70000011920929
+      ]
+    }
+  },
+  {
+    "waypoint_indices": [
+      5,
+      27,
+      39,
+      46,
+      50
+    ],
+    "distance_m": 16.712,
+    "rooms": [
+      "bathroom_0/0",
+      "bedroom_0/0",
+      "bedroom_0/1"
+    ],
+    "num_rooms": 3,
+    "scale": "medium",
+    "num_waypoints": 5,
+    "goal_label": "room:bathroom/bathroom_0/0",
+    "goal_region": {
+      "type": "rect",
+      "min_xy": [
+        -0.2,
+        3.800000238418579
+      ],
+      "max_xy": [
+        2.700000059604645,
+        6.70000011920929
+      ]
+    }
+  },
+  {
+    "waypoint_indices": [
+      40,
+      49,
+      39,
+      27,
+      5
+    ],
+    "distance_m": 16.313,
+    "rooms": [
+      "bedroom_0/1",
+      "bedroom_0/0",
+      "bathroom_0/0"
+    ],
+    "num_rooms": 3,
+    "scale": "medium",
+    "num_waypoints": 5,
+    "goal_label": "room:bathroom/bathroom_0/0",
+    "goal_region": {
+      "type": "rect",
+      "min_xy": [
+        -0.2,
+        3.800000238418579
+      ],
+      "max_xy": [
+        2.700000059604645,
+        6.70000011920929
+      ]
+    }
+  },
+  {
+    "waypoint_indices": [
+      5,
+      27,
+      39,
+      49,
+      40
+    ],
+    "distance_m": 16.313,
+    "rooms": [
+      "bathroom_0/0",
+      "bedroom_0/0",
+      "bedroom_0/1"
+    ],
+    "num_rooms": 3,
+    "scale": "medium",
+    "num_waypoints": 5,
+    "goal_label": "room:bathroom/bathroom_0/0",
+    "goal_region": {
+      "type": "rect",
+      "min_xy": [
+        -0.2,
+        3.800000238418579
+      ],
+      "max_xy": [
+        2.700000059604645,
+        6.70000011920929
+      ]
+    }
+  },
+  {
+    "waypoint_indices": [
+      22,
+      23,
+      18,
+      76,
+      9
+    ],
+    "distance_m": 15.45,
+    "rooms": [
+      "bedroom_0/0",
+      "living-room_0/0",
+      "bathroom_0/1"
+    ],
+    "num_rooms": 3,
+    "scale": "medium",
+    "num_waypoints": 5,
+    "goal_label": "room:bathroom/bathroom_0/1",
+    "goal_region": {
+      "type": "rect",
+      "min_xy": [
+        3.2999997615814207,
+        9.799999761581422
+      ],
+      "max_xy": [
+        7.200000238418579,
+        13.69999976158142
+      ]
+    }
+  },
+  {
+    "waypoint_indices": [
+      9,
+      76,
+      18,
+      23,
+      22
+    ],
+    "distance_m": 15.45,
+    "rooms": [
+      "bathroom_0/1",
+      "living-room_0/0",
+      "bedroom_0/0"
+    ],
+    "num_rooms": 3,
+    "scale": "medium",
+    "num_waypoints": 5,
+    "goal_label": "room:bathroom/bathroom_0/1",
+    "goal_region": {
+      "type": "rect",
+      "min_xy": [
+        3.2999997615814207,
+        9.799999761581422
+      ],
+      "max_xy": [
+        7.200000238418579,
+        13.69999976158142
+      ]
+    }
+  },
+  {
+    "waypoint_indices": [
+      19,
+      17,
+      18,
+      76,
+      9
+    ],
+    "distance_m": 13.44,
+    "rooms": [
+      "bedroom_0/0",
+      "living-room_0/0",
+      "bathroom_0/1"
+    ],
+    "num_rooms": 3,
+    "scale": "medium",
+    "num_waypoints": 5,
+    "goal_label": "room:bathroom/bathroom_0/1",
+    "goal_region": {
+      "type": "rect",
+      "min_xy": [
+        3.2999997615814207,
+        9.799999761581422
+      ],
+      "max_xy": [
+        7.200000238418579,
+        13.69999976158142
+      ]
+    }
+  },
+  {
+    "waypoint_indices": [
+      9,
+      76,
+      18,
+      17,
+      19
+    ],
+    "distance_m": 13.44,
+    "rooms": [
+      "bathroom_0/1",
+      "living-room_0/0",
+      "bedroom_0/0"
+    ],
+    "num_rooms": 3,
+    "scale": "medium",
+    "num_waypoints": 5,
+    "goal_label": "room:bathroom/bathroom_0/1",
+    "goal_region": {
+      "type": "rect",
+      "min_xy": [
+        3.2999997615814207,
+        9.799999761581422
+      ],
+      "max_xy": [
+        7.200000238418579,
+        13.69999976158142
+      ]
+    }
+  },
+  {
+    "waypoint_indices": [
+      68,
+      79,
+      24,
+      32,
+      5
+    ],
+    "distance_m": 12.515,
+    "rooms": [
+      "living-room_0/0",
+      "bedroom_0/0",
+      "bathroom_0/0"
+    ],
+    "num_rooms": 3,
+    "scale": "medium",
+    "num_waypoints": 5,
+    "goal_label": "room:bathroom/bathroom_0/0",
+    "goal_region": {
+      "type": "rect",
+      "min_xy": [
+        -0.2,
+        3.800000238418579
+      ],
+      "max_xy": [
+        2.700000059604645,
+        6.70000011920929
+      ]
+    }
+  },
+  {
+    "waypoint_indices": [
+      5,
+      32,
+      24,
+      79,
+      68
+    ],
+    "distance_m": 12.515,
+    "rooms": [
+      "bathroom_0/0",
+      "bedroom_0/0",
+      "living-room_0/0"
+    ],
+    "num_rooms": 3,
+    "scale": "medium",
+    "num_waypoints": 5,
+    "goal_label": "room:bathroom/bathroom_0/0",
+    "goal_region": {
+      "type": "rect",
+      "min_xy": [
+        -0.2,
+        3.800000238418579
+      ],
+      "max_xy": [
+        2.700000059604645,
+        6.70000011920929
+      ]
+    }
+  },
+  {
+    "waypoint_indices": [
+      70,
+      77,
+      27,
+      5
+    ],
+    "distance_m": 12.837,
+    "rooms": [
+      "living-room_0/0",
+      "bedroom_0/0",
+      "bathroom_0/0"
+    ],
+    "num_rooms": 3,
+    "scale": "medium",
+    "num_waypoints": 4,
+    "goal_label": "room:bathroom/bathroom_0/0",
+    "goal_region": {
+      "type": "rect",
+      "min_xy": [
+        -0.2,
+        3.800000238418579
+      ],
+      "max_xy": [
+        2.700000059604645,
+        6.70000011920929
+      ]
+    }
+  },
+  {
+    "waypoint_indices": [
+      5,
+      27,
+      77,
+      70
+    ],
+    "distance_m": 12.837,
+    "rooms": [
+      "bathroom_0/0",
+      "bedroom_0/0",
+      "living-room_0/0"
+    ],
+    "num_rooms": 3,
+    "scale": "medium",
+    "num_waypoints": 4,
+    "goal_label": "room:bathroom/bathroom_0/0",
+    "goal_region": {
+      "type": "rect",
+      "min_xy": [
+        -0.2,
+        3.800000238418579
+      ],
+      "max_xy": [
+        2.700000059604645,
+        6.70000011920929
+      ]
+    }
+  },
+  {
+    "waypoint_indices": [
+      38,
+      35,
+      76,
+      18
+    ],
+    "distance_m": 9.924,
+    "rooms": [
+      "bedroom_0/1",
+      "living-room_0/0",
+      "bedroom_0/0"
+    ],
+    "num_rooms": 3,
+    "scale": "medium",
+    "num_waypoints": 4,
+    "goal_label": "room:bedroom/bedroom_0/0",
+    "goal_region": {
+      "type": "rect",
+      "min_xy": [
+        1.299999761581421,
+        1.299999761581421
+      ],
+      "max_xy": [
+        9.2,
+        9.2
+      ]
+    }
+  },
+  {
+    "waypoint_indices": [
+      18,
+      76,
+      35,
+      38
+    ],
+    "distance_m": 9.924,
+    "rooms": [
+      "bedroom_0/0",
+      "living-room_0/0",
+      "bedroom_0/1"
+    ],
+    "num_rooms": 3,
+    "scale": "medium",
+    "num_waypoints": 4,
+    "goal_label": "room:bedroom/bedroom_0/0",
+    "goal_region": {
+      "type": "rect",
+      "min_xy": [
+        1.299999761581421,
+        1.299999761581421
+      ],
+      "max_xy": [
+        9.2,
+        9.2
+      ]
+    }
+  },
+  {
+    "waypoint_indices": [
+      74,
+      28,
+      9
+    ],
+    "distance_m": 9.954,
+    "rooms": [
+      "living-room_0/0",
+      "bedroom_0/0",
+      "bathroom_0/1"
+    ],
+    "num_rooms": 3,
+    "scale": "medium",
+    "num_waypoints": 3,
+    "goal_label": "room:bathroom/bathroom_0/1",
+    "goal_region": {
+      "type": "rect",
+      "min_xy": [
+        3.2999997615814207,
+        9.799999761581422
+      ],
+      "max_xy": [
+        7.200000238418579,
+        13.69999976158142
+      ]
+    }
+  },
+  {
+    "waypoint_indices": [
+      11,
+      76,
+      18
+    ],
+    "distance_m": 9.569,
+    "rooms": [
+      "bathroom_0/1",
+      "living-room_0/0",
+      "bedroom_0/0"
+    ],
+    "num_rooms": 3,
+    "scale": "medium",
+    "num_waypoints": 3,
+    "goal_label": "room:bedroom/bedroom_0/0",
+    "goal_region": {
+      "type": "rect",
+      "min_xy": [
+        1.299999761581421,
+        1.299999761581421
+      ],
+      "max_xy": [
+        9.2,
+        9.2
+      ]
+    }
+  },
+  {
+    "waypoint_indices": [
+      69,
+      28,
+      9
+    ],
+    "distance_m": 8.912,
+    "rooms": [
+      "living-room_0/0",
+      "bedroom_0/0",
+      "bathroom_0/1"
+    ],
+    "num_rooms": 3,
+    "scale": "medium",
+    "num_waypoints": 3,
+    "goal_label": "room:bathroom/bathroom_0/1",
+    "goal_region": {
+      "type": "rect",
+      "min_xy": [
+        3.2999997615814207,
+        9.799999761581422
+      ],
+      "max_xy": [
+        7.200000238418579,
+        13.69999976158142
+      ]
+    }
+  },
+  {
+    "waypoint_indices": [
+      12,
+      76,
+      18
+    ],
+    "distance_m": 8.635,
+    "rooms": [
+      "bathroom_0/1",
+      "living-room_0/0",
+      "bedroom_0/0"
+    ],
+    "num_rooms": 3,
+    "scale": "medium",
+    "num_waypoints": 3,
+    "goal_label": "room:bedroom/bedroom_0/0",
+    "goal_region": {
+      "type": "rect",
+      "min_xy": [
+        1.299999761581421,
+        1.299999761581421
+      ],
+      "max_xy": [
+        9.2,
+        9.2
+      ]
+    }
+  },
+  {
+    "waypoint_indices": [
+      80,
+      32,
+      5
+    ],
+    "distance_m": 8.256,
+    "rooms": [
+      "door",
+      "bedroom_0/0",
+      "bathroom_0/0"
+    ],
+    "num_rooms": 3,
+    "scale": "medium",
+    "num_waypoints": 3,
+    "goal_label": "room:bathroom/bathroom_0/0",
+    "goal_region": {
+      "type": "rect",
+      "min_xy": [
+        -0.2,
+        3.800000238418579
+      ],
+      "max_xy": [
+        2.700000059604645,
+        6.70000011920929
+      ]
+    }
+  },
+  {
+    "waypoint_indices": [
+      75,
+      39,
+      9
+    ],
+    "distance_m": 8.163,
+    "rooms": [
+      "living-room_0/0",
+      "bedroom_0/1",
+      "bathroom_0/1"
+    ],
+    "num_rooms": 3,
+    "scale": "medium",
+    "num_waypoints": 3,
+    "goal_label": "room:bathroom/bathroom_0/1",
+    "goal_region": {
+      "type": "rect",
+      "min_xy": [
+        3.2999997615814207,
+        9.799999761581422
+      ],
+      "max_xy": [
+        7.200000238418579,
+        13.69999976158142
+      ]
+    }
+  },
+  {
+    "waypoint_indices": [
+      71,
+      39,
+      9
+    ],
+    "distance_m": 7.638,
+    "rooms": [
+      "living-room_0/0",
+      "bedroom_0/1",
+      "bathroom_0/1"
+    ],
+    "num_rooms": 3,
+    "scale": "medium",
+    "num_waypoints": 3,
+    "goal_label": "room:bathroom/bathroom_0/1",
+    "goal_region": {
+      "type": "rect",
+      "min_xy": [
+        3.2999997615814207,
+        9.799999761581422
+      ],
+      "max_xy": [
+        7.200000238418579,
+        13.69999976158142
+      ]
+    }
+  },
+  {
+    "waypoint_indices": [
+      81,
+      76,
+      18
+    ],
+    "distance_m": 7.422,
+    "rooms": [
+      "door.008",
+      "living-room_0/0",
+      "bedroom_0/0"
+    ],
+    "num_rooms": 3,
+    "scale": "medium",
+    "num_waypoints": 3,
+    "goal_label": "room:bedroom/bedroom_0/0",
+    "goal_region": {
+      "type": "rect",
+      "min_xy": [
+        1.299999761581421,
+        1.299999761581421
+      ],
+      "max_xy": [
+        9.2,
+        9.2
+      ]
+    }
+  },
+  {
+    "waypoint_indices": [
+      67,
+      47,
+      9
+    ],
+    "distance_m": 7.276,
+    "rooms": [
+      "living-room_0/0",
+      "bedroom_0/1",
+      "bathroom_0/1"
+    ],
+    "num_rooms": 3,
+    "scale": "medium",
+    "num_waypoints": 3,
+    "goal_label": "room:bathroom/bathroom_0/1",
+    "goal_region": {
+      "type": "rect",
+      "min_xy": [
+        3.2999997615814207,
+        9.799999761581422
+      ],
+      "max_xy": [
+        7.200000238418579,
+        13.69999976158142
+      ]
+    }
+  },
+  {
+    "waypoint_indices": [
+      78,
+      39,
+      18
+    ],
+    "distance_m": 7.132,
+    "rooms": [
+      "living-room_0/0",
+      "bedroom_0/1",
+      "bedroom_0/0"
+    ],
+    "num_rooms": 3,
+    "scale": "medium",
+    "num_waypoints": 3,
+    "goal_label": "room:bedroom/bedroom_0/0",
+    "goal_region": {
+      "type": "rect",
+      "min_xy": [
+        1.299999761581421,
+        1.299999761581421
+      ],
+      "max_xy": [
+        9.2,
+        9.2
+      ]
+    }
+  },
+  {
+    "waypoint_indices": [
+      10,
+      76,
+      18
+    ],
+    "distance_m": 7.092,
+    "rooms": [
+      "bathroom_0/1",
+      "living-room_0/0",
+      "bedroom_0/0"
+    ],
+    "num_rooms": 3,
+    "scale": "medium",
+    "num_waypoints": 3,
+    "goal_label": "room:bedroom/bedroom_0/0",
+    "goal_region": {
+      "type": "rect",
+      "min_xy": [
+        1.299999761581421,
+        1.299999761581421
+      ],
+      "max_xy": [
+        9.2,
+        9.2
+      ]
+    }
+  },
+  {
+    "waypoint_indices": [
+      48,
+      12,
+      81
+    ],
+    "distance_m": 5.654,
+    "rooms": [
+      "bedroom_0/1",
+      "bathroom_0/1",
+      "door.008"
+    ],
+    "num_rooms": 3,
+    "scale": "medium",
+    "num_waypoints": 3,
+    "goal_label": "room:bathroom/bathroom_0/1",
+    "goal_region": {
+      "type": "rect",
+      "min_xy": [
+        3.2999997615814207,
+        9.799999761581422
+      ],
+      "max_xy": [
+        7.200000238418579,
+        13.69999976158142
+      ]
+    }
+  },
+  {
+    "waypoint_indices": [
+      21,
+      29,
+      24,
+      13,
+      9
+    ],
+    "distance_m": 12.447,
+    "rooms": [
+      "bedroom_0/0",
+      "bathroom_0/1"
+    ],
+    "num_rooms": 2,
+    "scale": "medium",
+    "num_waypoints": 5,
+    "goal_label": "room:bathroom/bathroom_0/1",
+    "goal_region": {
+      "type": "rect",
+      "min_xy": [
+        3.2999997615814207,
+        9.799999761581422
+      ],
+      "max_xy": [
+        7.200000238418579,
+        13.69999976158142
+      ]
+    }
+  },
+  {
+    "waypoint_indices": [
+      9,
+      13,
+      24,
+      29,
+      21
+    ],
+    "distance_m": 12.447,
+    "rooms": [
+      "bathroom_0/1",
+      "bedroom_0/0"
+    ],
+    "num_rooms": 2,
+    "scale": "medium",
+    "num_waypoints": 5,
+    "goal_label": "room:bathroom/bathroom_0/1",
+    "goal_region": {
+      "type": "rect",
+      "min_xy": [
+        3.2999997615814207,
+        9.799999761581422
+      ],
+      "max_xy": [
+        7.200000238418579,
+        13.69999976158142
+      ]
+    }
+  },
+  {
+    "waypoint_indices": [
+      26,
+      15,
+      24,
+      13,
+      9
+    ],
+    "distance_m": 11.384,
+    "rooms": [
+      "bedroom_0/0",
+      "bathroom_0/1"
+    ],
+    "num_rooms": 2,
+    "scale": "medium",
+    "num_waypoints": 5,
+    "goal_label": "room:bathroom/bathroom_0/1",
+    "goal_region": {
+      "type": "rect",
+      "min_xy": [
+        3.2999997615814207,
+        9.799999761581422
+      ],
+      "max_xy": [
+        7.200000238418579,
+        13.69999976158142
+      ]
+    }
+  },
+  {
+    "waypoint_indices": [
+      9,
+      13,
+      24,
+      15,
+      26
+    ],
+    "distance_m": 11.384,
+    "rooms": [
+      "bathroom_0/1",
+      "bedroom_0/0"
+    ],
+    "num_rooms": 2,
+    "scale": "medium",
+    "num_waypoints": 5,
+    "goal_label": "room:bathroom/bathroom_0/1",
+    "goal_region": {
+      "type": "rect",
+      "min_xy": [
+        3.2999997615814207,
+        9.799999761581422
+      ],
+      "max_xy": [
+        7.200000238418579,
+        13.69999976158142
+      ]
+    }
+  },
+  {
+    "waypoint_indices": [
+      41,
+      45,
+      10,
+      39,
+      77,
+      74
+    ],
+    "distance_m": 17.614,
+    "rooms": [
+      "bedroom_0/1",
+      "bathroom_0/1",
+      "living-room_0/0"
+    ],
+    "num_rooms": 3,
+    "scale": "medium",
+    "num_waypoints": 6
+  },
+  {
+    "waypoint_indices": [
+      74,
+      77,
+      39,
+      10,
+      45,
+      41
+    ],
+    "distance_m": 17.614,
+    "rooms": [
+      "living-room_0/0",
+      "bathroom_0/1",
+      "bedroom_0/1"
+    ],
+    "num_rooms": 3,
+    "scale": "medium",
+    "num_waypoints": 6
+  },
+  {
+    "waypoint_indices": [
+      43,
+      33,
+      10,
+      39,
+      77,
+      74
+    ],
+    "distance_m": 16.961,
+    "rooms": [
+      "bedroom_0/1",
+      "bathroom_0/1",
+      "living-room_0/0"
+    ],
+    "num_rooms": 3,
+    "scale": "medium",
+    "num_waypoints": 6
+  },
+  {
+    "waypoint_indices": [
+      74,
+      77,
+      39,
+      10,
+      33,
+      43
+    ],
+    "distance_m": 16.961,
+    "rooms": [
+      "living-room_0/0",
+      "bathroom_0/1",
+      "bedroom_0/1"
+    ],
+    "num_rooms": 3,
+    "scale": "medium",
+    "num_waypoints": 6
+  },
+  {
+    "waypoint_indices": [
+      25,
+      16,
+      24,
+      13,
+      14,
+      42
+    ],
+    "distance_m": 15.013,
+    "rooms": [
+      "bedroom_0/0",
+      "bathroom_0/1",
+      "bedroom_0/1"
+    ],
+    "num_rooms": 3,
+    "scale": "medium",
+    "num_waypoints": 6
+  },
+  {
+    "waypoint_indices": [
+      42,
+      14,
+      13,
+      24,
+      16,
+      25
+    ],
+    "distance_m": 15.013,
+    "rooms": [
+      "bedroom_0/1",
+      "bathroom_0/1",
+      "bedroom_0/0"
+    ],
+    "num_rooms": 3,
+    "scale": "medium",
+    "num_waypoints": 6
+  },
+  {
+    "waypoint_indices": [
+      73,
+      72,
+      76,
+      9
+    ],
+    "distance_m": 8.637,
+    "rooms": [
+      "living-room_0/0",
+      "bathroom_0/1"
+    ],
+    "num_rooms": 2,
+    "scale": "medium",
+    "num_waypoints": 4,
+    "goal_label": "room:bathroom/bathroom_0/1",
+    "goal_region": {
+      "type": "rect",
+      "min_xy": [
+        3.2999997615814207,
+        9.799999761581422
+      ],
+      "max_xy": [
+        7.200000238418579,
+        13.69999976158142
+      ]
+    }
+  },
+  {
+    "waypoint_indices": [
+      9,
+      76,
+      72,
+      73
+    ],
+    "distance_m": 8.637,
+    "rooms": [
+      "bathroom_0/1",
+      "living-room_0/0"
+    ],
+    "num_rooms": 2,
+    "scale": "medium",
+    "num_waypoints": 4,
+    "goal_label": "room:bathroom/bathroom_0/1",
+    "goal_region": {
+      "type": "rect",
+      "min_xy": [
+        3.2999997615814207,
+        9.799999761581422
+      ],
+      "max_xy": [
+        7.200000238418579,
+        13.69999976158142
+      ]
+    }
+  },
+  {
+    "waypoint_indices": [
+      7,
+      23,
+      18
+    ],
+    "distance_m": 8.711,
+    "rooms": [
+      "bathroom_0/0",
+      "bedroom_0/0"
+    ],
+    "num_rooms": 2,
+    "scale": "medium",
+    "num_waypoints": 3,
+    "goal_label": "room:living-room/living-room_0/0",
+    "goal_region": {
+      "type": "rect",
+      "min_xy": [
+        7.800000238418579,
+        5.3
+      ],
+      "max_xy": [
+        14.700000238418578,
+        13.700000476837157
+      ]
+    }
+  },
+  {
+    "waypoint_indices": [
+      6,
+      17,
+      18
+    ],
+    "distance_m": 7.961,
+    "rooms": [
+      "bathroom_0/0",
+      "bedroom_0/0"
+    ],
+    "num_rooms": 2,
+    "scale": "medium",
+    "num_waypoints": 3,
+    "goal_label": "room:living-room/living-room_0/0",
+    "goal_region": {
+      "type": "rect",
+      "min_xy": [
+        7.800000238418579,
+        5.3
+      ],
+      "max_xy": [
+        14.700000238418578,
+        13.700000476837157
+      ]
+    }
+  },
+  {
+    "waypoint_indices": [
+      31,
+      4,
+      19
+    ],
+    "distance_m": 7.357,
+    "rooms": [
+      "bedroom_0/0",
+      "bathroom_0/0"
+    ],
+    "num_rooms": 2,
+    "scale": "medium",
+    "num_waypoints": 3,
+    "goal_label": "room:closet/closet_0/0",
+    "goal_region": {
+      "type": "rect",
+      "min_xy": [
+        0.8,
+        7.300000119209289
+      ],
+      "max_xy": [
+        2.700000059604645,
+        9.200000119209289
+      ]
+    }
+  },
+  {
+    "waypoint_indices": [
+      44,
+      12,
+      35
+    ],
+    "distance_m": 7.288,
+    "rooms": [
+      "bedroom_0/1",
+      "bathroom_0/1"
+    ],
+    "num_rooms": 2,
+    "scale": "medium",
+    "num_waypoints": 3,
+    "goal_label": "room:living-room/living-room_0/0",
+    "goal_region": {
+      "type": "rect",
+      "min_xy": [
+        7.800000238418579,
+        5.3
+      ],
+      "max_xy": [
+        14.700000238418578,
+        13.700000476837157
+      ]
+    }
+  },
+  {
+    "waypoint_indices": [
+      8,
+      23,
+      18
+    ],
+    "distance_m": 7.221,
+    "rooms": [
+      "bathroom_0/0",
+      "bedroom_0/0"
+    ],
+    "num_rooms": 2,
+    "scale": "medium",
+    "num_waypoints": 3,
+    "goal_label": "room:living-room/living-room_0/0",
+    "goal_region": {
+      "type": "rect",
+      "min_xy": [
+        7.800000238418579,
+        5.3
+      ],
+      "max_xy": [
+        14.700000238418578,
+        13.700000476837157
+      ]
+    }
+  },
+  {
+    "waypoint_indices": [
+      34,
+      81,
+      35
+    ],
+    "distance_m": 6.788,
+    "rooms": [
+      "bedroom_0/1",
+      "door.008"
+    ],
+    "num_rooms": 2,
+    "scale": "medium",
+    "num_waypoints": 3,
+    "goal_label": "room:living-room/living-room_0/0",
+    "goal_region": {
+      "type": "rect",
+      "min_xy": [
+        7.800000238418579,
+        5.3
+      ],
+      "max_xy": [
+        14.700000238418578,
+        13.700000476837157
+      ]
+    }
+  },
+  {
+    "waypoint_indices": [
+      20,
+      18,
+      76
+    ],
+    "distance_m": 9.037,
+    "rooms": [
+      "bedroom_0/0",
+      "living-room_0/0"
+    ],
+    "num_rooms": 2,
+    "scale": "medium",
+    "num_waypoints": 3
+  },
+  {
+    "waypoint_indices": [
+      7,
+      23,
+      30,
+      20,
+      5,
+      32,
+      29,
+      31,
+      4,
+      17,
+      18,
+      80,
+      74,
+      77,
+      47,
+      10,
+      40,
+      33,
+      81,
+      42,
+      44,
+      34,
+      51,
+      14,
+      35,
+      13,
+      39,
+      9,
+      12,
+      48,
+      44
+    ],
+    "distance_m": 105.532,
+    "rooms": [
+      "bathroom_0/0",
+      "bedroom_0/0",
+      "door",
+      "living-room_0/0",
+      "bedroom_0/1",
+      "bathroom_0/1",
+      "door.008"
+    ],
+    "num_rooms": 7,
+    "scale": "long",
+    "num_waypoints": 31
+  },
+  {
+    "waypoint_indices": [
+      44,
+      48,
+      12,
+      9,
+      39,
+      13,
+      35,
+      14,
+      51,
+      34,
+      44,
+      42,
+      81,
+      33,
+      40,
+      10,
+      47,
+      77,
+      74,
+      80,
+      18,
+      17,
+      4,
+      31,
+      29,
+      32,
+      5,
+      20,
+      30,
+      23,
+      7
+    ],
+    "distance_m": 105.532,
+    "rooms": [
+      "door.008",
+      "bathroom_0/1",
+      "bedroom_0/1",
+      "living-room_0/0",
+      "door",
+      "bedroom_0/0",
+      "bathroom_0/0"
+    ],
+    "num_rooms": 7,
+    "scale": "long",
+    "num_waypoints": 31
+  },
+  {
+    "waypoint_indices": [
+      38,
+      36,
+      37,
+      12,
+      49,
+      40,
+      10,
+      13,
+      81,
+      76,
+      46,
+      38,
+      50,
+      46,
+      67,
+      71,
+      28,
+      16,
+      80,
+      39,
+      24,
+      27,
+      25,
+      5,
+      30,
+      23,
+      22,
+      8,
+      19,
+      17,
+      24
+    ],
+    "distance_m": 111.484,
+    "rooms": [
+      "bedroom_0/1",
+      "bathroom_0/1",
+      "door.008",
+      "living-room_0/0",
+      "bedroom_0/0",
+      "door",
+      "bathroom_0/0"
+    ],
+    "num_rooms": 7,
+    "scale": "long",
+    "num_waypoints": 31
+  },
+  {
+    "waypoint_indices": [
+      24,
+      17,
+      19,
+      8,
+      22,
+      23,
+      30,
+      5,
+      25,
+      27,
+      24,
+      39,
+      80,
+      16,
+      28,
+      71,
+      67,
+      46,
+      50,
+      38,
+      46,
+      76,
+      81,
+      13,
+      10,
+      40,
+      49,
+      12,
+      37,
+      36,
+      38
+    ],
+    "distance_m": 111.484,
+    "rooms": [
+      "bathroom_0/0",
+      "door",
+      "bedroom_0/0",
+      "living-room_0/0",
+      "door.008",
+      "bathroom_0/1",
+      "bedroom_0/1"
+    ],
+    "num_rooms": 7,
+    "scale": "long",
+    "num_waypoints": 31
+  },
+  {
+    "waypoint_indices": [
+      6,
+      20,
+      5,
+      25,
+      16,
+      69,
+      79,
+      75,
+      28,
+      80,
+      27,
+      17,
+      23,
+      18,
+      76,
+      49,
+      12,
+      81,
+      14,
+      34,
+      12,
+      48,
+      33,
+      10,
+      37,
+      81,
+      47,
+      72,
+      77,
+      78,
+      67
+    ],
+    "distance_m": 101.164,
+    "rooms": [
+      "bathroom_0/0",
+      "bedroom_0/0",
+      "living-room_0/0",
+      "door",
+      "bedroom_0/1",
+      "bathroom_0/1",
+      "door.008"
+    ],
+    "num_rooms": 7,
+    "scale": "long",
+    "num_waypoints": 31
+  },
+  {
+    "waypoint_indices": [
+      67,
+      78,
+      77,
+      72,
+      47,
+      81,
+      37,
+      10,
+      33,
+      48,
+      12,
+      34,
+      14,
+      81,
+      12,
+      49,
+      76,
+      18,
+      23,
+      17,
+      27,
+      80,
+      28,
+      75,
+      79,
+      69,
+      16,
+      25,
+      5,
+      20,
+      6
+    ],
+    "distance_m": 101.164,
+    "rooms": [
+      "door.008",
+      "bathroom_0/1",
+      "bedroom_0/1",
+      "door",
+      "living-room_0/0",
+      "bedroom_0/0",
+      "bathroom_0/0"
+    ],
+    "num_rooms": 7,
+    "scale": "long",
+    "num_waypoints": 31
+  },
+  {
+    "waypoint_indices": [
+      49,
+      33,
+      12,
+      44,
+      81,
+      76,
+      9,
+      13,
+      24,
+      27,
+      29,
+      18,
+      15,
+      23,
+      8,
+      5,
+      30,
+      7,
+      8,
+      4,
+      31,
+      26,
+      32,
+      80,
+      75,
+      73,
+      77,
+      39,
+      67,
+      71,
+      78
+    ],
+    "distance_m": 104.473,
+    "rooms": [
+      "bedroom_0/1",
+      "bathroom_0/1",
+      "door.008",
+      "living-room_0/0",
+      "bedroom_0/0",
+      "bathroom_0/0",
+      "door"
+    ],
+    "num_rooms": 7,
+    "scale": "long",
+    "num_waypoints": 31
+  },
+  {
+    "waypoint_indices": [
+      78,
+      71,
+      67,
+      39,
+      77,
+      73,
+      75,
+      80,
+      32,
+      26,
+      31,
+      4,
+      8,
+      7,
+      30,
+      5,
+      8,
+      23,
+      15,
+      18,
+      29,
+      27,
+      24,
+      13,
+      9,
+      76,
+      81,
+      44,
+      12,
+      33,
+      49
+    ],
+    "distance_m": 104.473,
+    "rooms": [
+      "door",
+      "bathroom_0/0",
+      "bedroom_0/0",
+      "living-room_0/0",
+      "door.008",
+      "bathroom_0/1",
+      "bedroom_0/1"
+    ],
+    "num_rooms": 7,
+    "scale": "long",
+    "num_waypoints": 31
+  },
+  {
+    "waypoint_indices": [
+      68,
+      73,
+      72,
+      35,
+      10,
+      39,
+      28,
+      24,
+      29,
+      18,
+      23,
+      7,
+      8,
+      6,
+      20,
+      32,
+      25,
+      16,
+      27,
+      80,
+      75,
+      77,
+      71,
+      74,
+      69,
+      79,
+      13,
+      81,
+      49,
+      12,
+      42
+    ],
+    "distance_m": 99.483,
+    "rooms": [
+      "living-room_0/0",
+      "bedroom_0/1",
+      "bathroom_0/1",
+      "bedroom_0/0",
+      "bathroom_0/0",
+      "door",
+      "door.008"
+    ],
+    "num_rooms": 7,
+    "scale": "long",
+    "num_waypoints": 31
+  },
+  {
+    "waypoint_indices": [
+      42,
+      12,
+      49,
+      81,
+      13,
+      79,
+      69,
+      74,
+      71,
+      77,
+      75,
+      80,
+      27,
+      16,
+      25,
+      32,
+      20,
+      6,
+      8,
+      7,
+      23,
+      18,
+      29,
+      24,
+      28,
+      39,
+      10,
+      35,
+      72,
+      73,
+      68
+    ],
+    "distance_m": 99.483,
+    "rooms": [
+      "door.008",
+      "door",
+      "bathroom_0/0",
+      "bedroom_0/0",
+      "bathroom_0/1",
+      "bedroom_0/1",
+      "living-room_0/0"
+    ],
+    "num_rooms": 7,
+    "scale": "long",
+    "num_waypoints": 31
+  },
+  {
+    "waypoint_indices": [
+      41,
+      45,
+      10,
+      76,
+      18
+    ],
+    "distance_m": 13.748,
+    "rooms": [
+      "bedroom_0/1",
+      "bathroom_0/1",
+      "living-room_0/0",
+      "bedroom_0/0"
+    ],
+    "num_rooms": 4,
+    "scale": "long",
+    "num_waypoints": 5,
+    "goal_label": "room:bedroom/bedroom_0/0",
+    "goal_region": {
+      "type": "rect",
+      "min_xy": [
+        1.299999761581421,
+        1.299999761581421
+      ],
+      "max_xy": [
+        9.2,
+        9.2
+      ]
+    }
+  },
+  {
+    "waypoint_indices": [
+      18,
+      76,
+      10,
+      45,
+      41
+    ],
+    "distance_m": 13.748,
+    "rooms": [
+      "bedroom_0/0",
+      "living-room_0/0",
+      "bathroom_0/1",
+      "bedroom_0/1"
+    ],
+    "num_rooms": 4,
+    "scale": "long",
+    "num_waypoints": 5,
+    "goal_label": "room:bedroom/bedroom_0/0",
+    "goal_region": {
+      "type": "rect",
+      "min_xy": [
+        1.299999761581421,
+        1.299999761581421
+      ],
+      "max_xy": [
+        9.2,
+        9.2
+      ]
+    }
+  }
+]
