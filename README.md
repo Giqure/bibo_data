@@ -6,6 +6,19 @@ Bibo是一个VLN工作，原文
 # 本项目
 本项目是一个VLN 数据合成的工作，由infinigen生成室内场景，并在isaacsim中实现路径的采样和路径的信息采集
 
+TODO: 
+当前项目正在开发中...
+
+[x] 导入infinigen场景
+[x] 解读infinigen物品和房间信息
+[x] 生成导航目标点
+[x] 生成导航路径
+[-] 在导航路径上做信息采集
+[ ] 为路径添加prompt
+[ ] 大场景测试/批量生成/并行优化
+[ ] 使用infinigen_utils实现replicate
+[ ] 使用生成数据训练VLN
+
 ## 架构
 当infinigen生成的室内场景导出为usdc后，vln_synthesize负责读取场景并生成数据
 syner是主pipeline
