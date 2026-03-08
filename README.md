@@ -35,7 +35,7 @@ syn_utils是syner用到的模块，包括
 
 ## 运行前
 1. 按照 [infinigen](https://github.com/princeton-vl/infinigen/blob/main/docs/Installation.md) 手册[生成场景](https://github.com/princeton-vl/infinigen/blob/main/docs/HelloRoom.md)，[导出为USDC](https://github.com/princeton-vl/infinigen/blob/main/docs/ExportingToSimulators.md)
-1. 按照 [Isaac Sim](https://isaac-sim.github.io/IsaacLab/main/source/setup/installation/pip_installation.html#installing-isaac-sim) 手册配置python环境，本项目isaac-sim版本 5.1.0. 根据 [Python API](https://docs.isaacsim.omniverse.nvidia.com/5.1.0/python_scripting/core_api_overview.html)手册
+1. 按照 [Isaac Sim](https://isaac-sim.github.io/IsaacLab/main/source/setup/installation/pip_installation.html#installing-isaac-sim) 手册配置python环境，本项目isaac-sim版本 5.1.0. 根据 [Python API](https://docs.isaacsim.omniverse.nvidia.com/5.1.0/python_scripting/core_api_overview.html)指导页面
     > Important
     >
     > Isaac Sim 5.0.0 has introduced the Core Experimental API: a rewritten implementation of the current Core API designed to be more robust, flexible, and powerful, yet still maintain the core utilities and wrapper concepts.
@@ -44,10 +44,9 @@ syn_utils是syner用到的模块，包括
     >
     > Therefore, we strongly encourage early adoption and use of the Core Experimental API.
 
-    本项目使用的API符合 [Isaac Sim Python API手册](https://docs.isaacsim.omniverse.nvidia.com/5.1.0/py/index.html)
+    本项目使用的API符合 [Isaac Sim Python API手册](https://docs.isaacsim.omniverse.nvidia.com/5.1.0/py/index.html)，但仍需向experiment API迁移。
 1. 图像采集中需要ffmepg进行视频采集
 1. 本项目在Ubuntu-2204上测试并开发中。infinigen生成的室内场景较大时，需要较大的显存；场景中物品较多时，需要较大的内存。
-1. 
 
 ## 运行
 简易选项
@@ -100,10 +99,10 @@ python vln_synthesize/syner.py \
 | `--video_step` | 视频插值步长(m) | 0.05 |
 | `--max_capture_paths` | 采集路径数(0=全部) | 3 |
 
-### 运行时
+## 运行时
 除了生成场景外，本项目中路径采样的时间最长，测试时40个物品需要大于7秒，4000个物品需要大于7小时，这一部分取决于CPU
 
-### 运行后
+## 运行后
 注意保存文件，本项目生成时默认覆盖原文件
 生成结果位于 <output_dir>/capture ，按路径建立文件夹
 
