@@ -15,7 +15,7 @@ TODO:
 - [x] 生成导航路径
 - [ ] 在导航路径上做信息采集
     - [x] 图片/视频采集 
-- [ ] 为路径添加prompt
+- [ ] 为路径添加instruction
 - [ ] 大场景测试/批量生成/并行优化
 - [ ] 使用infinigen_utils实现replicate
 - [ ] 使用生成数据训练VLN
