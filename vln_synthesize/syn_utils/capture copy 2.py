@@ -338,7 +338,7 @@ def capture_all_paths(
     capturer = PathCapture(cfg)
     capturer.warm_up(world, n_steps=10)
     results: list[str] = []
-    total = len(path_states)
+    total = len(path_states);
     if cfg.max_paths > 0:
         indices = np.random.permutation(total)[: cfg.max_paths]
     else:

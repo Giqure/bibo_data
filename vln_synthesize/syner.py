@@ -23,8 +23,6 @@ import numpy as np
 parser = argparse.ArgumentParser(description="VLN data synthesis with pure Isaac Sim")
 parser.add_argument("--usdc_path", type=str, required=True, help="Path to the USDC scene file")
 parser.add_argument("--output_dir", type=str, required=True, help="Output directory")
-parser.add_argument("--image_width", type=int, default=640, help="Rendered image width")
-parser.add_argument("--image_height", type=int, default=480, help="Rendered image height")
 parser.add_argument("--headless", action="store_true", help="Run in headless mode")
 parser.add_argument("--solve_state", type=str, default=None,
                     help="Path to solve_state.json (default: <usdc_dir>/../solve_state.json)")
@@ -32,16 +30,21 @@ parser.add_argument("--agent_radius", type=float, default=25.0, help="NavMesh ag
 parser.add_argument("--agent_height", type=float, default=80.0, help="NavMesh agent height cm")
 parser.add_argument("--max_step_height", type=float, default=5.0, help="NavMesh max step height cm")
 parser.add_argument("--max_slope", type=float, default=30.0, help="NavMesh max walkable slope")
+parser.add_argument("--image_width", type=int, default=1280, help="Rendered image width")
+parser.add_argument("--image_height", type=int, default=720, help="Rendered image height")
 
 # ── Capture args ──
-parser.add_argument("--capture_mode", type=str, default=None, choices=["image", "video"],
-                    help="Capture mode: 'image' for per-waypoint snapshots, 'video' for mp4 along path, default for no capture")
-parser.add_argument("--capture_depth", action="store_true", help="Also capture depth maps (.npy)")
+parser.add_argument("--rgb", action="store_true", help="Capture rgb images")
+parser.add_argument("--depth", action="store_true", help="Also capture depth maps (.npy)")
+parser.add_argument("--rgb_video", action="store_true", help="Capture rgb video")
 parser.add_argument("--camera_height", type=float, default=1.5, help="Camera height above path point (m)")
-parser.add_argument("--camera_fov", type=float, default=180.0, help="Horizontal FoV in degrees (>90 triggers panoramic cubemap capture)")
+parser.add_argument("--camera_fov", type=float, default=87.0, help="Horizontal FoV in degrees (>90 triggers panoramic cubemap capture)")
 parser.add_argument("--video_fps", type=int, default=30, help="FPS for video mode")
 parser.add_argument("--video_step", type=float, default=0.05, help="Interpolation step size for video (m)")
 parser.add_argument("--max_capture_paths", type=int, default=3, help="Max paths to capture (0 = all)")
+
+
+parser.add_argument("--visualize", action="store_true", help="Visualize points and paths")
 args = parser.parse_args()
 
 # ── 2. Launch Isaac Sim ──
@@ -66,24 +69,43 @@ import omni.usd
 from isaacsim.core.api import World
 import isaacsim.core.utils.stage as stage_utils
 import isaacsim.core.utils.prims as prims_utils
-from pxr import Gf, Sdf, Usd, UsdGeom, UsdPhysics
+from pxr import Gf, Sdf, Usd, UsdGeom, UsdPhysics, UsdLux
+from isaacsim.core.api.objects import VisualCone, GroundPlane
 
 from syn_utils.json import readSolveStateJson
-from syn_utils.points.nav_mesh import sampleWithNavMesh
 from syn_utils.models import States
-from syn_utils.capture import CaptureConfig, capture_all_paths
+from syn_utils.sample.nav_mesh import sampleWithNavMesh
+from syn_utils.capture import capture_paths
 
 
 # ── 2b. preprocess ──
 
-def preprocessStage(stage: Usd.Stage):
+def preprocessStage_0(stage: Usd.Stage):
     doors = []
     for prim in stage.Traverse():
         if "door" in prim.GetName().lower():
-            doors.append(prim)
+            path_str = str(prim.GetPath())
+            # 如果已有某个 door 路径是当前路径的前缀，跳过
+            if not any(path_str.startswith(p + "/") for p in doors):
+                doors.append(path_str)
 
     for door in doors:
-        prims_utils.delete_prim(door.GetPath())
+        prims_utils.delete_prim(door)
+
+    # from pxr import UsdLux
+
+def preprocessStage_1(stage: Usd.Stage):
+    prim = GroundPlane(
+        prim_path=f"/World/Plane",
+        scale=np.array([100.0, 100.0, 1.0]),
+    )
+
+    env_light_prim = prims_utils.get_prim_at_path('/World/env_light')
+    env_light_prim.GetAttribute("inputs:intensity").Set(100000.0)
+
+    for prim in stage.Traverse():
+        if prim.IsA(UsdLux.SphereLight):
+            prim.GetAttribute("inputs:intensity").Set(50000.0)
 
 # ── 3. Visualize ──
 
@@ -123,7 +145,6 @@ def create_navmesh_visual(stage: Usd.Stage, i_nav, area_index: int = 0):
     return mesh_path
 
 def navigation_points_visual(stage: Usd.Stage, states: States):
-    from isaacsim.core.api.objects import VisualCone
     point_i = 0
     for state_dict in states.values():
         for state in state_dict.values():
@@ -142,27 +163,32 @@ def navigation_points_visual(stage: Usd.Stage, states: States):
 
 def navigation_paths_visual(stage: Usd.Stage, path_states):
     from isaacsim.core.api.objects import VisualCone
-    path_i = 0
+
     indices = np.random.permutation(len(path_states))[:10]
-    for idx in indices:
+    for path_i, idx in enumerate(indices):
         path_state = path_states[idx]
         point = 0
-        for path_point in path_state["navmesh_path"].get_points():
+        points = path_state["navmesh_path"].get_points()
+        for path_point in points:
             # create a blue visual line at the given path
             prim = VisualCone(
                 prim_path=f"/World/Xform/Path{path_i}/Point{point}",
                 position=np.array(path_point) + np.array([0.0, 0.0, 0.05]),  # lift it up a bit for better visibility
                 radius=0.005,
                 height=0.1,
-                color=np.array([0.9 - path_i / len(path_states) * 0.8, 1.0, path_i / len(path_states) * 0.8 + 0.1])
+                color=np.array([0.9 - path_i / len(path_states) * 0.8, 0.5, path_i / len(path_states) * 0.8 + 0.1])
             )
             point += 1
-        path_i += 1
 
 def setVisualThings(stage: Usd.Stage):
     for prim in stage.Traverse():
         if {"ceiling", "exterior"} & set(str(prim.GetPath()).split("_")):
             prim.GetAttribute("visibility").Set("invisible")
+    
+
+    env_light_prim = prims_utils.get_prim_at_path('/World/env_light')
+    env_light_prim.GetAttribute("inputs:intensity").Set(5000.0)
+
 
 # ── 5. Main pipeline ──
 
@@ -189,45 +215,32 @@ def main():
     for _ in range(10):
         world.step(render=True)
 
-    preprocessStage(stage)
+    preprocessStage_0(stage)
 
     carb.log_info("Baking navmesh from solve_state.json...")
     states = readSolveStateJson(args)
-    # i_nav = sampleWithNavMesh(states, args)
-    # if i_nav is None:
-    #     carb.log_error("NavMesh bake failed; cannot visualize navmesh")
-    #     simulation_app.close()
-    #     sys.exit(1)
-    # create_navmesh_visual(stage, i_nav, area_index=0)
     path_states = sampleWithNavMesh(states, args)
 
-    # ── Capture images / video if requested ──
-    if args.capture_mode is not None:
-        cfg = CaptureConfig(
-            output_dir=os.path.join(args.output_dir, "capture"),
-            mode=args.capture_mode,
-            width=args.image_width,
-            height=args.image_height,
-            camera_height=args.camera_height,
-            camera_fov=args.camera_fov,
-            capture_depth=args.capture_depth,
-            video_step_size=args.video_step,
-            video_fps=args.video_fps,
-            max_paths=args.max_capture_paths,
-        )
-        capture_all_paths(path_states, cfg, world=world)
-        carb.log_info(f"Capture finished → {cfg.output_dir}")
-    else:
-        # Default: visualize only
-        navigation_paths_visual(stage, path_states)
-        navigation_points_visual(stage, states)
+    preprocessStage_1(stage)
+
+    if args.rgb_video or args.rgb or args.depth:
+        # carb.settings.get_settings().set("/rtx/rendermode", "PathTracing")
+        capture_paths(
+            path_states=path_states, 
+            world=world, 
+            stage=stage, 
+            args=args
+            )
+        carb.settings.get_settings().set("/rtx/rendermode", "RaytracedLighting")
 
     if args.headless:
         for _ in range(30):
             world.step(render=True)
     else:
-        setVisualThings(stage)
-        carb.log_info("NavMesh visualized. Close the simulator window to exit.")
+        if args.visualize:
+            navigation_points_visual(stage, states)
+            navigation_paths_visual(stage, path_states)
+            setVisualThings(stage)
         while simulation_app.is_running():
             world.step(render=True)
 
